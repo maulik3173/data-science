@@ -1,0 +1,1300 @@
+User ID,Age,Gender,Location,Phone Brand,OS,Screen Time (hrs/day),Data Usage (GB/month),Calls Duration (mins/day),Number of Apps Installed,Social Media Time (hrs/day),E-commerce Spend (INR/month),Streaming Time (hrs/day),Gaming Time (hrs/day),Monthly Recharge Cost (INR),Primary Use
+U00001,53,Male,Mumbai,Vivo,Android,3.7,23.9,37.9,104,3.9,469,5.2,4.1,803,Education
+U00002,60,Other,Delhi,Realme,iOS,9.2,28.1,13.7,169,2.8,4997,5.1,0.4,1526,Gaming
+U00003,37,Female,Ahmedabad,Nokia,Android,4.5,12.3,66.8,96,3,2381,1.7,2.9,1619,Entertainment
+U00004,32,Male,Pune,Samsung,Android,11,25.6,156.2,146,5.2,1185,3.2,0.3,1560,Entertainment
+U00005,16,Male,Mumbai,Xiaomi,iOS,2.2,2.5,236.2,86,5.5,106,3.4,2.3,742,Social Media
+U00006,21,Male,Jaipur,Oppo,iOS,5.4,10.6,210.6,25,4.2,6285,0.6,4.8,1749,Entertainment
+U00007,57,Female,Lucknow,Apple,iOS,6,35.2,154.5,123,0.8,2653,2.9,2.3,1073,Social Media
+U00008,56,Other,Kolkata,Realme,iOS,3.1,43.5,125.3,188,2.3,9767,5.2,5,1136,Entertainment
+U00009,46,Female,Kolkata,Oppo,Android,5.3,46.4,21.3,194,3.7,2870,6.1,2.8,1253,Entertainment
+U00010,44,Other,Kolkata,Apple,iOS,9.9,10.6,180.2,84,4.8,9193,7.6,0.4,168,Education
+U00011,55,Other,Lucknow,Nokia,Android,1.6,23.7,192,27,3.1,9330,1.2,2.3,1098,Work
+U00012,41,Female,Delhi,Oppo,Android,7.5,23.5,84.9,187,0.9,643,3.5,2.7,151,Social Media
+U00013,53,Male,Bangalore,Realme,iOS,10.5,1.4,33.7,137,4.5,7854,7.2,1.4,240,Education
+U00014,35,Male,Jaipur,Realme,Android,,32.4,247.1,124,5.2,3347,3.8,4.5,972,Social Media
+U00015,33,Female,Jaipur,,iOS,1.7,33.2,208.8,121,3,3185,4.2,0.5,1046,Entertainment
+U00016,52,Male,Bangalore,Google Pixel,Android,5.1,28.5,169.2,,4.6,6175,4.4,4.3,1769,Work
+U00017,46,Other,Mumbai,Apple,Android,3.1,23.6,153.9,183,2.5,6242,6.2,0.4,1679,Education
+U00018,54,Male,Kolkata,Apple,Android,11.6,12.6,210.4,62,4.9,4642,0.9,4.1,1360,Entertainment
+U00019,50,Female,Chennai,Google Pixel,Android,5.3,5.2,235.6,188,4.6,1120,1,0.8,1639,Work
+U00020,40,Other,Hyderabad,Motorola,iOS,9,38.9,289.6,62,2.4,8012,7.7,2,1224,Work
+U00021,60,Male,Pune,Samsung,iOS,10.4,46,38,110,3,511,6.8,1.3,311,Social Media
+U00022,59,Other,Pune,Xiaomi,Android,11.7,9.1,203.9,101,5.8,2579,2.6,4.1,446,Gaming
+U00023,46,Other,Chennai,Samsung,Android,8.1,15.5,206.8,77,5.9,1776,3.4,2.5,899,Social Media
+U00024,16,Female,Hyderabad,Vivo,Android,1.4,25.5,222,141,1.6,1119,2.8,0.4,1118,Gaming
+U00025,29,,Bangalore,Realme,Android,7,41.7,51,130,1.4,2604,3.5,1.6,1154,Education
+U00026,36,Male,Hyderabad,Vivo,iOS,5.6,47.4,155.4,123,5.9,1886,2.3,3,955,Work
+U00027,15,Male,Delhi,Vivo,Android,9.2,42.7,230.9,180,0.5,4611,1,2.5,210,Gaming
+U00028,41,Other,Jaipur,Realme,Android,8.1,44.1,81.8,25,1.9,5545,5.7,3.7,1488,Education
+U00029,51,Female,Kolkata,Vivo,iOS,10.7,45.1,94,127,3.5,2293,6.7,5,333,Education
+U00030,45,Female,Hyderabad,Realme,Android,6.3,34.5,244.3,125,5,1647,5.9,0.2,1541,Entertainment
+U00031,39,Female,Jaipur,Motorola,Android,4,9.4,194.2,32,1.5,8314,6.7,3.5,447,Entertainment
+U00032,40,Female,Lucknow,OnePlus,Android,8.4,25.7,262.8,174,1.3,3010,4.9,3,419,Education
+U00033,28,Female,Chennai,Xiaomi,iOS,5.3,16.8,264.9,84,1.3,9222,7.2,3,1699,Social Media
+U00034,23,Female,Chennai,Motorola,Android,11.4,48.4,216.8,98,3.2,5026,2.7,4.9,1079,Gaming
+U00035,57,Male,Delhi,Vivo,iOS,4.1,31.2,61.5,149,5.1,386,3.9,1,1935,Social Media
+U00036,23,Female,Ahmedabad,Vivo,iOS,10.7,29,9,175,2.9,633,6.4,0,1345,Social Media
+U00037,56,Other,Kolkata,Nokia,Android,9.4,42.1,246.7,113,4.9,498,0.9,4.3,982,Work
+U00038,20,Other,Chennai,Samsung,iOS,11.9,45.5,195.8,150,4.1,479,5.6,1.7,169,Education
+U00039,22,Other,Kolkata,Google Pixel,Android,1.6,34.1,6,153,5.8,5175,5.7,2.2,805,Work
+U00040,19,Male,Kolkata,Apple,iOS,5.5,2.9,212.5,129,5.6,8514,7.9,0.8,647,Education
+U00041,49,Other,Lucknow,Samsung,iOS,5.2,43.4,151.8,114,5.6,3826,6.8,3.1,1192,Social Media
+U00042,54,Male,Ahmedabad,Vivo,iOS,2.2,22,30.8,156,1.8,8307,1.1,3,1788,Social Media
+U00043,40,Male,Bangalore,Vivo,iOS,2.5,10.6,219.1,113,1.8,238,0.9,2.2,1924,Work
+U00044,52,Female,Kolkata,Xiaomi,iOS,4.4,33.8,189.3,44,3.8,1869,3.6,2.4,1382,Social Media
+U00045,42,Other,Mumbai,Google Pixel,iOS,4.2,3.4,171.6,108,3.3,5178,1.3,4.8,322,Education
+U00046,23,Other,Hyderabad,Samsung,iOS,4.3,26.4,210.5,53,5.3,1250,7.5,3.9,314,Entertainment
+U00047,51,Other,Mumbai,Samsung,iOS,10.7,17.6,293.4,65,5.2,3313,1.8,1.3,1319,Education
+U00048,19,Male,Bangalore,Realme,iOS,3.1,24.8,82.1,75,3.9,1396,2,1.6,1245,Social Media
+U00049,52,Other,Delhi,Xiaomi,Android,1.5,41,95.5,140,5.5,8029,5,0.1,802,Social Media
+U00050,17,Other,Lucknow,Apple,iOS,4.7,30.4,157.7,187,2.6,9189,4.3,4.9,801,Entertainment
+U00051,31,Female,Ahmedabad,Nokia,iOS,10.4,41.1,32.5,171,3.5,7702,7.1,0.8,1833,Education
+U00052,49,Other,Jaipur,OnePlus,Android,8.6,46,181.8,154,1.6,4264,7.5,0.4,1142,Social Media
+U00053,21,Male,Delhi,Motorola,iOS,9.4,15.4,10.6,34,2.5,3130,2.5,4.8,1882,Education
+U00054,51,Male,Lucknow,OnePlus,iOS,5.4,15.8,115.7,115,3.2,2929,3.5,2.7,1772,Social Media
+U00055,32,Other,Mumbai,Vivo,iOS,5.8,27.5,30,193,4,948,5.6,4.6,122,Social Media
+U00056,43,Other,Bangalore,Xiaomi,iOS,8.6,14.4,275.5,27,4.7,9544,3.6,3.4,1395,Work
+U00057,25,Male,Bangalore,OnePlus,Android,5.6,38,296.5,40,1.5,799,1,2.4,1831,Work
+U00058,16,Female,Pune,Nokia,iOS,9,7.1,142.9,164,4.9,6088,2.1,1.9,686,Work
+U00059,49,Male,Pune,Motorola,iOS,3.4,17,235.4,52,2.8,7018,7.3,4.7,2000,Education
+U00060,35,Male,Hyderabad,Xiaomi,iOS,3,8.3,253.1,18,2.5,9494,3.1,4.6,479,Gaming
+U00061,49,Male,Pune,Apple,Android,4.5,1.9,54.5,197,4.3,3575,6.7,0,679,Entertainment
+U00062,34,Female,Kolkata,Apple,iOS,3.5,20.6,134,73,5.6,2918,3,1,329,Entertainment
+U00063,38,Other,Jaipur,Oppo,iOS,1.3,9,119.7,36,2,5666,4,4.1,1605,Education
+U00064,38,Female,Ahmedabad,OnePlus,iOS,3.2,13.2,206.3,31,3.2,3342,4.2,0.3,1005,Work
+U00065,41,Female,Delhi,Realme,Android,2.5,9.3,111,69,0.6,2918,6.5,1.9,1699,Education
+U00066,41,Female,Bangalore,Samsung,iOS,8.3,19.4,194.5,25,5.8,9918,5.3,3.5,782,Education
+U00067,30,Female,Ahmedabad,Samsung,Android,1.7,10.4,74,64,2.5,468,4.9,4.1,1361,Work
+U00068,43,Male,Kolkata,Google Pixel,iOS,3,24.3,151.7,143,1.1,4443,6.3,0.3,546,Education
+U00069,40,Female,Kolkata,Samsung,Android,4.2,28.1,8.9,62,4.1,8932,7.3,0.8,209,Social Media
+U00070,18,Male,Delhi,Oppo,iOS,5.3,10.4,257,116,2.3,4368,7.6,4.2,1359,Gaming
+U00071,24,Female,Delhi,Apple,iOS,11.2,14.7,241.5,158,1.4,563,2.3,3.5,1845,Work
+U00072,51,Female,Lucknow,Oppo,Android,11.9,47.8,21.5,68,4.3,7945,2.3,3.8,1749,Social Media
+U00073,23,Other,Kolkata,Motorola,iOS,5.2,34.6,159.3,140,4.3,5816,7.8,2.8,1406,Gaming
+U00074,43,Other,Kolkata,Realme,Android,6.9,3,74.6,117,3.1,1883,5.2,1.8,108,Gaming
+U00075,31,Male,Ahmedabad,Google Pixel,iOS,6.8,26.2,74.5,150,5.1,1073,1.1,0.8,1393,Work
+U00076,56,Female,Delhi,Oppo,Android,6.1,20.7,23.2,117,1.6,3672,3.2,2.1,430,Gaming
+U00077,51,Female,Ahmedabad,Samsung,iOS,9.2,45.9,294,129,3.7,5449,1,3.8,1222,Entertainment
+U00078,19,Other,Kolkata,Motorola,iOS,6,42.2,193,101,3.1,4606,2.2,3.9,705,Entertainment
+U00079,26,Other,Pune,Xiaomi,iOS,11.1,1.3,51.9,52,0.6,1308,4.7,1.1,1104,Social Media
+U00080,28,Male,Chennai,Xiaomi,iOS,5.7,49.5,98.2,190,2.1,8715,7.9,3.2,195,Gaming
+U00081,37,Other,Pune,OnePlus,iOS,10.5,33,69,92,4,8284,1.3,4.1,781,Work
+U00082,42,Other,Lucknow,Google Pixel,Android,1.8,9.2,107.6,19,3.5,4648,3.7,0.6,1691,Education
+U00083,46,Other,Pune,Realme,Android,10,30.8,105.6,179,3.9,3003,4.9,2.4,472,Entertainment
+U00084,52,Male,Jaipur,Samsung,iOS,5,46.6,127.1,56,4.6,7151,4.1,2.2,554,Education
+U00085,23,Female,Hyderabad,Samsung,Android,4.5,44.3,298.9,166,2.2,9243,1.2,4.4,1355,Entertainment
+U00086,25,Female,Hyderabad,Nokia,Android,5,26.4,216.9,78,4,3751,1.7,4.4,1249,Entertainment
+U00087,39,Female,Ahmedabad,Nokia,Android,2.4,14.6,9.5,84,1.6,1401,3.6,2,1081,Education
+U00088,43,Other,Lucknow,Vivo,iOS,11.4,45.5,215.1,28,1.1,6568,7.4,0.5,505,Social Media
+U00089,39,Male,Jaipur,Samsung,Android,8.8,40.8,237.2,190,2.8,5779,6.6,1.3,1767,Social Media
+U00090,38,Male,Lucknow,Oppo,Android,1.8,49.9,87.3,95,5.2,5891,6.4,0.1,1401,Gaming
+U00091,46,Other,Lucknow,Motorola,Android,6.7,15.8,120.9,187,1.2,2427,6.4,2.5,1186,Gaming
+U00092,33,Male,Jaipur,Vivo,Android,10.9,38,273.4,198,3,305,5.1,2.7,324,Education
+U00093,51,Other,Delhi,Nokia,Android,10.5,28.4,182.7,86,1.2,1305,7.1,1.7,1479,Gaming
+U00094,57,Other,Pune,Nokia,iOS,10.8,39.2,28.6,126,4,526,4.7,1.2,1610,Entertainment
+U00095,59,Male,Pune,Google Pixel,Android,2.3,11.6,52.3,136,2.9,6699,1.5,4.2,1239,Entertainment
+U00096,21,Other,Kolkata,Vivo,Android,7.2,29.6,180.6,88,1.4,9995,1.1,0.4,1727,Gaming
+U00097,17,Other,Hyderabad,Motorola,Android,11.8,35.2,111.2,140,0.7,856,7,2,1474,Entertainment
+U00098,22,Male,Mumbai,Google Pixel,Android,8,12.9,82.9,113,3.9,2936,4.7,0,443,Work
+U00099,25,Male,Bangalore,Apple,iOS,1.5,25.9,24.3,62,4.5,9363,7.5,0.2,809,Entertainment
+U00100,29,Female,Kolkata,Motorola,Android,7.8,42.5,71.6,17,4.2,1972,3.7,3.3,990,Social Media
+U00101,31,Female,Pune,Apple,iOS,10.9,41.1,273.4,157,4.2,9043,2.8,3.4,431,Education
+U00102,39,Male,Pune,Apple,Android,8.4,46.3,175.6,180,5.6,3881,7,0.1,1254,Social Media
+U00103,15,Other,Mumbai,Realme,iOS,10.5,39.3,77.1,137,2.2,8230,3.1,3.1,687,Work
+U00104,21,Male,Delhi,Apple,Android,3.6,5.5,30.6,200,4.5,5214,7.7,3.8,1129,Entertainment
+U00105,56,Male,Hyderabad,Motorola,iOS,11.6,31.6,123.1,150,2,7124,6.7,3.4,1037,Entertainment
+U00106,29,Female,Jaipur,Xiaomi,iOS,4.8,8.4,253,62,5.9,1373,1.4,0.8,1216,Gaming
+U00107,58,Female,Chennai,Xiaomi,Android,7.9,7.9,18.5,34,1,1875,3.5,0.4,1983,Social Media
+U00108,40,Other,Chennai,Xiaomi,Android,5.5,42.8,50,142,3.6,8911,4.4,3.7,1226,Work
+U00109,38,Other,Hyderabad,Realme,iOS,4.5,20.9,62.8,198,0.5,5339,0.6,3.3,767,Social Media
+U00110,32,Other,Delhi,OnePlus,Android,9.2,43.4,281.8,55,3.5,3082,4.6,3.9,1338,Work
+U00111,28,Female,Hyderabad,Samsung,Android,9.3,48.8,107.2,190,1.4,1623,7.6,2.9,1839,Education
+U00112,57,Male,Jaipur,Nokia,Android,9.6,49.4,257.1,47,2.7,5899,6,2.5,414,Gaming
+U00113,43,Female,Jaipur,Oppo,iOS,1.2,20.5,244.1,13,3,4570,5.3,3.2,206,Social Media
+U00114,54,Other,Hyderabad,Google Pixel,Android,8,24.5,85.7,163,1.5,2640,3.8,1.1,1580,Social Media
+U00115,15,Other,Pune,Oppo,iOS,8.5,18.6,118.8,30,5.8,7615,6.8,2.5,448,Education
+U00116,27,Male,Jaipur,Apple,iOS,1.5,7.8,50.7,151,1.1,5508,3.4,2.8,392,Education
+U00117,56,Male,Chennai,Realme,Android,5.2,3.5,6.7,101,5.5,8684,5.8,0.5,1627,Entertainment
+U00118,15,Other,Jaipur,Nokia,Android,8.9,13.9,99.2,51,5.4,7174,0.7,1.7,1837,Education
+U00119,19,Female,Chennai,Motorola,iOS,7.2,16,163.5,191,1.9,6130,4.8,1.8,1202,Gaming
+U00120,31,Other,Mumbai,Realme,iOS,7.5,29.2,259.3,141,4.5,1991,1.3,1.1,1936,Work
+U00121,44,Other,Chennai,Nokia,iOS,10.8,15.8,152.4,81,3.1,8153,7.3,1.6,1350,Gaming
+U00122,53,Male,Hyderabad,Google Pixel,Android,1.4,28.9,265.2,179,3.9,1032,4.5,2.1,254,Entertainment
+U00123,46,Other,Mumbai,Samsung,iOS,5.9,38.1,144.6,186,2.1,684,4.5,1.2,1562,Social Media
+U00124,25,Other,Hyderabad,OnePlus,iOS,3.7,49.5,160.5,77,4.2,9444,1.8,0.2,1268,Entertainment
+U00125,49,Male,Pune,Google Pixel,Android,10.1,9.4,69.5,125,0.7,5893,4.2,4.6,837,Social Media
+U00126,23,Female,Pune,Oppo,iOS,10.1,6.1,68.8,198,5.8,3598,1.6,3.9,1054,Work
+U00127,24,Male,Delhi,Samsung,Android,6.1,9,240.6,126,1,1035,3.2,1.3,944,Gaming
+U00128,21,Male,Mumbai,Oppo,iOS,6.5,1.5,115,196,2.1,1824,1.8,1.8,727,Entertainment
+U00129,39,Female,Delhi,Apple,iOS,4.8,22.6,205,71,5.3,5852,3.6,3.6,1574,Work
+U00130,50,Female,Delhi,Motorola,iOS,3.7,48.7,57.3,52,3.9,7916,2.7,2.1,905,Social Media
+U00131,25,Other,Hyderabad,OnePlus,Android,5.2,37.5,218.5,23,3.1,3433,6.6,2,147,Education
+U00132,21,Other,Lucknow,Vivo,Android,2.9,27.6,202.1,85,1.8,6866,3.3,4.2,1149,Entertainment
+U00133,39,Female,Hyderabad,Google Pixel,iOS,7.7,6.6,118.1,39,4.9,5299,7.9,2.5,1795,Social Media
+U00134,48,Male,Chennai,Apple,iOS,5,22.5,98.8,143,2.1,708,7.6,2.9,1389,Social Media
+U00135,18,Other,Lucknow,Apple,Android,3.7,40.8,226,167,0.8,4554,0.9,4.2,411,Social Media
+U00136,56,Male,Jaipur,Nokia,iOS,4.4,11.9,30.3,68,5.7,716,2.6,0.3,715,Entertainment
+U00137,43,Other,Lucknow,Samsung,iOS,2.4,42.1,147.2,143,4.8,3847,5.6,4.4,1760,Work
+U00138,59,Male,Ahmedabad,Xiaomi,Android,8.8,31.1,216.5,122,2.8,3840,4.1,3.4,267,Entertainment
+U00139,33,Male,Ahmedabad,Apple,iOS,8.2,34.4,173,177,5.2,8751,0.7,3,850,Gaming
+U00140,19,Male,Lucknow,Vivo,Android,4.1,14.3,134.6,193,4.9,977,6.2,0.2,512,Social Media
+U00141,59,Female,Kolkata,Xiaomi,Android,1.5,5.3,286.9,83,4.8,151,6.9,0.4,1849,Gaming
+U00142,49,Male,Jaipur,Nokia,Android,1.8,14.2,176.7,138,3.4,4034,8,2.5,1130,Education
+U00143,53,Female,Bangalore,Xiaomi,Android,8.1,22.6,228.5,48,2.8,1175,5,2.2,176,Gaming
+U00144,49,Other,Lucknow,Motorola,Android,11.7,42.6,218.5,150,5.6,6184,6.3,0.6,1980,Social Media
+U00145,57,Other,Chennai,Motorola,iOS,1.1,23.3,41.1,10,0.8,2170,4.1,2.6,1653,Social Media
+U00146,45,Male,Mumbai,Vivo,iOS,6.7,26.1,137.5,137,4.9,8216,5.6,1.3,306,Social Media
+U00147,18,Male,Hyderabad,Apple,Android,6,16.7,201.8,43,2.9,4640,5.2,4.6,1497,Entertainment
+U00148,42,Male,Chennai,Google Pixel,Android,5.5,49.4,55.7,117,1.4,9032,2,4.5,332,Entertainment
+U00149,39,Male,Hyderabad,Oppo,Android,3.1,9.3,165.3,199,2.6,8547,1.4,3.5,186,Social Media
+U00150,60,Male,Pune,Samsung,Android,11.8,40.7,134.9,75,2,837,2.3,1.8,387,Education
+U00151,16,Other,Chennai,Samsung,iOS,7.9,6.8,69.8,38,2.8,5468,7.7,4.2,1304,Entertainment
+U00152,51,Male,Delhi,Realme,iOS,1.7,26,80.4,33,5.7,8873,4,1.3,1318,Social Media
+U00153,50,Other,Delhi,Motorola,iOS,3.8,15.6,264.9,183,0.9,4894,0.7,4.2,1740,Work
+U00154,29,Female,Lucknow,Vivo,iOS,3.9,19,64.4,106,1,9942,3.3,0.3,612,Social Media
+U00155,51,Female,Lucknow,OnePlus,Android,7.3,44.2,211.4,80,0.5,6983,6.1,2.5,1150,Gaming
+U00156,50,Other,Ahmedabad,Nokia,iOS,5.4,15.1,40.6,130,5.6,3470,5.3,2.2,1047,Social Media
+U00157,34,Other,Kolkata,OnePlus,Android,1.9,1.4,187.6,34,2.5,2706,0.9,4.4,287,Social Media
+U00158,16,Other,Jaipur,Motorola,iOS,11.5,41.2,274.4,122,4.8,206,3.1,1.2,1935,Education
+U00159,35,Female,Hyderabad,Xiaomi,iOS,7.9,33.3,50,90,5.8,8385,6.2,4,633,Work
+U00160,39,Male,Pune,Oppo,Android,7.2,12.1,281.8,58,1.9,5116,7.6,4.5,1271,Social Media
+U00161,38,Male,Jaipur,Nokia,iOS,5,27.2,166.8,152,1.8,1111,0.7,4,578,Work
+U00162,34,Other,Mumbai,Realme,iOS,9.4,9.7,96.8,19,4,7564,3.2,2.1,1003,Work
+U00163,58,Other,Mumbai,Apple,iOS,7.1,43.3,248.5,57,2.6,8474,2,0.9,160,Gaming
+U00164,40,Other,Chennai,Vivo,iOS,9.9,14.7,128,121,3.6,3870,5.2,3.8,258,Social Media
+U00165,20,Female,Jaipur,Google Pixel,iOS,9,6,137.9,49,0.7,8615,0.8,2.3,223,Education
+U00166,29,Male,Chennai,Oppo,iOS,10.1,33.3,168.3,40,2.5,8182,4.9,0.2,621,Gaming
+U00167,29,Other,Chennai,Oppo,iOS,8.1,37.9,218.4,93,4,7142,5.5,0.1,157,Gaming
+U00168,33,Other,Ahmedabad,Google Pixel,iOS,3.6,36.2,83.9,52,4.9,639,7.9,3,1480,Gaming
+U00169,28,Other,Hyderabad,Samsung,Android,11.1,35.3,37.4,182,5.6,7845,3.3,2.2,1813,Social Media
+U00170,28,Female,Jaipur,Samsung,iOS,7.5,20.6,205.1,188,3.7,7816,3.4,3,952,Social Media
+U00171,47,Male,Mumbai,Nokia,iOS,8.7,25.7,196.5,14,5.3,2252,4.6,3.7,757,Education
+U00172,39,Female,Chennai,Google Pixel,Android,12,32.2,35.9,16,4.1,1414,0.8,3.6,233,Entertainment
+U00173,47,Male,Chennai,Samsung,Android,5,26.6,250.1,21,3.8,2485,7.6,0.6,1723,Social Media
+U00174,19,Other,Mumbai,Xiaomi,Android,11.7,6.2,81.7,20,3.3,3667,6.1,4.2,722,Social Media
+U00175,54,Male,Hyderabad,Google Pixel,iOS,8.7,30.9,286.4,173,3,2456,6.8,2.3,1716,Social Media
+U00176,44,Female,Ahmedabad,Nokia,Android,3.7,26.1,275.5,119,2.8,957,2.4,1.8,590,Work
+U00177,52,Female,Lucknow,OnePlus,Android,2.2,18.7,121.5,132,1.1,1903,5.4,0.2,1804,Social Media
+U00178,43,Male,Pune,Nokia,Android,5.4,21.2,244.2,140,3.3,8206,7.9,1,1178,Social Media
+U00179,50,Male,Kolkata,OnePlus,iOS,4,9.2,267.7,53,5.7,6357,0.7,1.2,1479,Work
+U00180,30,Male,Mumbai,Realme,Android,5.8,15.2,116,10,2.5,1605,4.7,0.2,897,Entertainment
+U00181,38,Other,Hyderabad,Samsung,Android,5.1,18.7,67.4,147,3.3,5150,6.5,0.7,408,Social Media
+U00182,33,Female,Hyderabad,Realme,Android,4.3,44.9,64.7,176,5.2,3146,2.2,0.2,1484,Work
+U00183,53,Female,Pune,Google Pixel,Android,4.9,6.5,199.6,181,5.1,7676,3.3,0.6,1150,Work
+U00184,56,Male,Kolkata,OnePlus,iOS,10.4,47.4,168.2,127,1.8,126,5.3,1.3,319,Social Media
+U00185,58,Female,Pune,Oppo,Android,5.4,14.8,106,58,5,3633,1.7,4.6,703,Entertainment
+U00186,31,Female,Lucknow,Apple,iOS,11.8,35.5,132,91,4.4,4462,0.8,2.8,858,Entertainment
+U00187,42,Female,Mumbai,Realme,Android,10.2,21.4,296.3,175,1.1,2252,3.4,1.1,716,Work
+U00188,48,Female,Chennai,Google Pixel,Android,9.4,35.8,256.5,160,1.6,8873,5.1,1.6,882,Work
+U00189,51,Female,Delhi,Nokia,iOS,6.1,46.3,38.1,89,2.1,6856,5.3,0.9,1328,Entertainment
+U00190,58,Female,Jaipur,Motorola,Android,4.5,7.3,126.7,174,2.6,8052,7.3,2.4,779,Gaming
+U00191,32,Other,Hyderabad,Vivo,Android,1.6,9.1,122.1,120,3.7,2559,6,1.3,1557,Gaming
+U00192,41,Female,Delhi,Samsung,iOS,4.6,49,89.2,28,4.8,8197,6.9,4.4,1969,Social Media
+U00193,20,Male,Jaipur,Realme,Android,5,33.3,28.3,70,3.1,2828,3.7,2.1,418,Social Media
+U00194,52,Other,Hyderabad,Nokia,iOS,2.1,50,165.8,126,2.7,5500,6.4,3.9,739,Entertainment
+U00195,53,Other,Mumbai,Google Pixel,Android,3.3,43.2,102.8,140,1.3,1248,3.5,0,846,Social Media
+U00196,23,Male,Chennai,Xiaomi,iOS,8.4,8,124.2,51,4.3,6406,3.1,0.1,953,Education
+U00197,36,Male,Hyderabad,Google Pixel,Android,3,41,188.4,95,1.8,627,1.7,4,1407,Social Media
+U00198,34,Female,Kolkata,Nokia,Android,3.9,43.6,296.2,193,0.8,2430,1.9,4,1128,Gaming
+U00199,45,Other,Delhi,Apple,Android,6.4,15.3,38.5,96,5.7,3191,7.9,4.6,1082,Social Media
+U00200,49,Female,Ahmedabad,Realme,iOS,8.4,28.8,62.6,16,0.7,3036,3.3,3.7,1184,Gaming
+U00201,17,Other,Mumbai,OnePlus,Android,4.1,20.9,29.9,161,5,3385,7.8,2.3,1139,Education
+U00202,33,Other,Delhi,Realme,Android,8.7,7.5,258.6,42,4.6,8676,3,1.9,366,Gaming
+U00203,41,Other,Jaipur,OnePlus,iOS,6.6,44.6,56.3,28,2.6,4031,1.5,0.3,395,Education
+U00204,45,Other,Hyderabad,OnePlus,Android,3.9,3.6,154.3,183,5.6,3338,7.6,4.9,929,Gaming
+U00205,25,Female,Delhi,Realme,iOS,1.5,19.1,235.2,17,2,5411,7.5,4.6,1540,Education
+U00206,60,Other,Delhi,Xiaomi,Android,7.9,32.2,238,65,2.2,4387,7.3,4.1,171,Entertainment
+U00207,59,Other,Lucknow,Oppo,Android,7.2,1,147.4,93,3.6,3533,3.2,3.5,541,Work
+U00208,23,Female,Bangalore,Xiaomi,Android,3.2,32.2,92.2,112,4.1,6328,1.9,2,252,Social Media
+U00209,21,Male,Ahmedabad,Realme,Android,2.7,25.3,76.5,169,5.9,2312,4,1.8,185,Gaming
+U00210,16,Male,Chennai,Oppo,Android,8.2,8.4,233.3,142,0.9,8059,1.2,4.6,1804,Work
+U00211,15,Other,Kolkata,Vivo,iOS,11.4,20.4,171.1,47,1.6,4815,7.8,4.2,535,Work
+U00212,20,Female,Jaipur,Oppo,Android,9.3,10.9,103.8,144,3.5,4535,1.7,2.8,1130,Entertainment
+U00213,37,Male,Hyderabad,Motorola,Android,9.7,26.3,94.1,31,3.8,9853,7.8,4.9,644,Social Media
+U00214,18,Other,Bangalore,Google Pixel,Android,10.7,24.8,170.7,184,1,9616,2,3.8,1542,Work
+U00215,33,Other,Delhi,Samsung,Android,8.3,46.6,28.4,175,0.6,9944,7.4,4.2,1390,Social Media
+U00216,21,Male,Jaipur,Google Pixel,iOS,12,18,211.5,113,3.1,1204,1.3,2,1766,Work
+U00217,28,Other,Ahmedabad,Oppo,Android,10.1,23.4,209.2,78,5.7,5198,4.1,1.6,1712,Gaming
+U00218,26,Female,Jaipur,Google Pixel,Android,5.5,8.5,207.8,132,1.4,2955,3,0.5,388,Entertainment
+U00219,51,Other,Ahmedabad,Oppo,Android,5.4,49.1,106.7,126,1.3,187,5.2,0.7,1496,Entertainment
+U00220,43,Other,Bangalore,Samsung,Android,4.8,22,23.9,187,3.7,8962,6.1,4.8,519,Social Media
+U00221,37,Female,Ahmedabad,Xiaomi,iOS,6.2,22,206.9,58,3.6,625,3.4,4.1,198,Entertainment
+U00222,34,Female,Hyderabad,Vivo,iOS,8.2,43.2,30.6,14,5.1,1312,6.5,3.9,1861,Work
+U00223,45,Male,Pune,Vivo,iOS,3.9,15.1,68.9,124,5,1599,4.5,1.7,1484,Gaming
+U00224,26,Female,Lucknow,Oppo,iOS,7,27.7,199,82,3.9,3790,5.4,3.2,1004,Entertainment
+U00225,26,Other,Kolkata,Google Pixel,iOS,9.4,16.1,121.1,52,0.8,5732,1,4.4,1882,Work
+U00226,55,Female,Chennai,Motorola,Android,7.5,4.2,71,171,1,8505,4.6,3.7,364,Work
+U00227,20,Male,Chennai,Realme,Android,4,2.5,219.7,83,4.3,891,0.7,3.4,706,Education
+U00228,41,Female,Lucknow,Apple,iOS,10.1,38.2,66.3,126,3.5,2472,3.7,4.4,1901,Education
+U00229,25,Female,Mumbai,Motorola,iOS,6.4,8.4,5.7,168,3.4,4312,1.1,2.4,651,Gaming
+U00230,31,Other,Mumbai,Nokia,iOS,9.5,20,299.1,185,5.2,4643,5.7,2.5,529,Social Media
+U00231,36,Other,Jaipur,Nokia,Android,1.7,1.7,179.2,103,3,737,2.6,2.9,810,Entertainment
+U00232,24,Male,Lucknow,Samsung,iOS,11.1,31.5,177.7,94,3.3,6017,1.2,2.3,1413,Work
+U00233,34,Other,Pune,Oppo,iOS,11,16.9,80.3,56,4.7,4364,7.9,4.4,1038,Work
+U00234,33,Other,Pune,Vivo,iOS,7.1,29.7,140.9,149,3.1,7909,4.7,3.9,281,Education
+U00235,43,Male,Ahmedabad,Xiaomi,iOS,3.8,25.4,66.9,80,2.4,824,3.4,1,1093,Education
+U00236,20,Other,Chennai,Samsung,iOS,8.5,49.5,199.5,136,0.5,8540,2.2,4.4,880,Social Media
+U00237,26,Other,Hyderabad,Realme,Android,1.7,39,195.8,14,1.8,2268,7.2,1,669,Work
+U00238,49,Other,Lucknow,Google Pixel,iOS,7.1,27.5,137.6,182,3.5,9288,7.2,2.5,1342,Social Media
+U00239,48,Male,Pune,Realme,Android,7,28.3,87.1,106,5,6815,2.5,3.4,775,Work
+U00240,23,Male,Bangalore,Samsung,Android,2.9,47.3,150.7,92,4,3099,2.7,1.9,525,Social Media
+U00241,23,Male,Delhi,Apple,Android,3.1,18.1,231.2,132,3.6,2624,2.3,1.6,1594,Work
+U00242,40,Female,Kolkata,Realme,Android,6.9,16.6,65.1,164,1.2,5691,4.3,3.3,872,Entertainment
+U00243,42,Other,Mumbai,Xiaomi,Android,3.4,31.8,212,77,2.6,4230,7.4,1.7,1159,Social Media
+U00244,52,Male,Bangalore,OnePlus,iOS,1.3,15.1,241,72,0.9,6597,1,1,1841,Social Media
+U00245,59,Male,Delhi,Google Pixel,Android,10.2,32.6,192,175,3.6,6366,5.5,3,1744,Social Media
+U00246,58,Female,Jaipur,Apple,iOS,11.2,14.3,287.8,106,5.7,7811,7.7,3.1,363,Gaming
+U00247,59,Other,Hyderabad,OnePlus,Android,9.9,31.3,236.6,52,4.7,5833,2.2,0.1,268,Education
+U00248,59,Male,Kolkata,Oppo,Android,6.4,47.2,232.7,173,5.9,5604,6.5,3.2,1404,Education
+U00249,15,Other,Kolkata,Nokia,iOS,9.5,34.1,26.3,22,3.1,3896,1.3,2.3,782,Entertainment
+U00250,54,Other,Pune,Oppo,iOS,4.5,42.6,61.8,96,1.5,4443,6,0.5,1786,Education
+U00251,34,Male,Chennai,Oppo,iOS,10.6,28.3,154.5,180,4.5,689,7,4.1,708,Education
+U00252,19,Male,Hyderabad,Oppo,Android,11.4,21.7,21.3,194,4.5,4948,4.3,0,1343,Social Media
+U00253,22,Other,Jaipur,Realme,Android,9.3,21.2,227.5,48,0.8,7296,3,5,546,Work
+U00254,41,Other,Jaipur,Google Pixel,iOS,8,47.9,210.7,156,3.1,7026,5.2,2,354,Work
+U00255,50,Other,Jaipur,Nokia,iOS,6.9,15,295.9,173,2.4,8166,4.1,4.8,525,Work
+U00256,26,Female,Kolkata,Motorola,iOS,2.4,19.5,284.8,134,4.8,9287,5.6,3.7,1629,Gaming
+U00257,31,Male,Delhi,Motorola,Android,10.4,21.4,60.6,119,1.3,248,7.4,4.9,1984,Education
+U00258,27,Other,Delhi,Xiaomi,iOS,4.3,20.1,231.5,29,5.3,6540,6.3,4.2,1416,Entertainment
+U00259,54,Male,Kolkata,Realme,iOS,3.2,18.5,75.8,138,4.1,6117,0.9,3.1,796,Work
+U00260,43,Female,Ahmedabad,Apple,iOS,10.1,18.9,52.2,32,3,1586,3.2,4.9,1716,Work
+U00261,24,Female,Hyderabad,Samsung,Android,10.3,47.9,271.2,175,4.8,7790,6.5,1.1,367,Education
+U00262,60,Female,Chennai,Xiaomi,Android,3.1,4.4,259.8,73,0.9,5023,2.4,1.1,1188,Gaming
+U00263,38,Other,Jaipur,Google Pixel,Android,7.3,44.3,58.6,58,4.1,4357,7.9,2.8,1814,Social Media
+U00264,24,Male,Bangalore,Vivo,iOS,8.4,34,295.8,58,4.7,9786,3.8,3.6,1549,Gaming
+U00265,34,Male,Delhi,Realme,Android,3.7,12.8,62.7,111,3.5,1381,8,1.8,1500,Education
+U00266,28,Other,Ahmedabad,Samsung,iOS,8.5,25.1,150,142,0.9,7911,6,2.8,1083,Work
+U00267,23,Other,Hyderabad,Nokia,Android,4.1,14,246.6,26,1.1,7727,4.8,1.1,555,Social Media
+U00268,16,Male,Delhi,Apple,Android,9.1,9.9,133.5,89,2,9075,4.2,2,663,Social Media
+U00269,19,Other,Kolkata,Apple,iOS,4.8,29.6,50.4,85,2.7,3899,7,0.2,783,Work
+U00270,57,Male,Lucknow,Vivo,Android,1.6,18.7,220,77,4.4,1291,2,2.7,1280,Social Media
+U00271,17,Male,Lucknow,Vivo,Android,2.5,38.1,270.7,119,1.8,5179,6.4,1.3,408,Education
+U00272,15,Other,Mumbai,Google Pixel,iOS,10.9,13.5,97.5,132,2.5,5377,4.6,3.7,1300,Social Media
+U00273,17,Other,Bangalore,Motorola,iOS,8.7,20.9,21,34,2.1,1836,2,3,867,Social Media
+U00274,38,Other,Bangalore,Nokia,iOS,8.6,7.5,69,17,4.4,4190,2.9,4.6,1540,Work
+U00275,39,Other,Ahmedabad,Xiaomi,Android,9.7,13.3,87.6,93,1.7,4550,3,3.9,1461,Entertainment
+U00276,55,Other,Jaipur,Nokia,Android,1.6,37.6,227.7,126,1.8,6117,7.4,1.9,1819,Entertainment
+U00277,19,Female,Ahmedabad,Google Pixel,iOS,7.3,46.6,208.3,109,3.8,1010,5.3,2.5,921,Gaming
+U00278,42,Female,Bangalore,OnePlus,iOS,4.2,40.9,158.8,88,5.2,6211,3.9,2.4,589,Education
+U00279,19,Female,Kolkata,Samsung,Android,3.7,32.7,194.3,87,3.4,1306,6.3,2.6,1596,Gaming
+U00280,30,Other,Pune,Xiaomi,Android,1.3,30.2,93.6,86,4.9,9830,6.7,0.3,617,Social Media
+U00281,52,Female,Hyderabad,Xiaomi,Android,3,39.5,65,126,5.8,7988,7.5,3.8,1912,Gaming
+U00282,34,Other,Chennai,Oppo,iOS,8.7,28.5,108,39,5.3,2493,1,3.4,702,Work
+U00283,25,Male,Hyderabad,Oppo,iOS,2.8,31.8,98.3,72,3.9,3966,0.6,1.3,645,Gaming
+U00284,23,Female,Kolkata,Nokia,Android,10,17.4,61.9,199,4.3,1817,5.6,2.3,570,Social Media
+U00285,45,Male,Lucknow,Apple,iOS,10.2,12.4,268.8,71,0.9,1432,4.2,4.6,268,Gaming
+U00286,39,Other,Hyderabad,Motorola,Android,10.6,26.3,40.7,20,0.9,2643,4.2,0.9,1591,Work
+U00287,46,Male,Jaipur,Samsung,iOS,5.7,1.1,127.2,31,4.3,8198,5.1,1.3,1310,Education
+U00288,54,Other,Mumbai,Oppo,iOS,5.2,17.9,288.3,164,4.5,4274,5.8,0.9,999,Work
+U00289,45,Other,Bangalore,Samsung,iOS,2.2,13.9,221,16,3.9,6975,4.8,2.5,1767,Education
+U00290,35,Male,Ahmedabad,OnePlus,Android,1.3,34.1,155,128,5.8,735,0.8,2.4,1683,Entertainment
+U00291,30,Female,Pune,Xiaomi,Android,7.4,26.6,15.7,82,4.1,9911,3.2,3.8,1026,Gaming
+U00292,38,Male,Delhi,Vivo,iOS,9.3,11.4,51.1,125,2.8,2430,0.9,4.5,637,Education
+U00293,52,Female,Delhi,Samsung,iOS,8.2,14.1,128.6,53,4.1,7626,3.1,4,1477,Gaming
+U00294,37,Female,Hyderabad,Xiaomi,Android,5.7,42.7,287.5,114,0.6,1074,6.8,1,273,Gaming
+U00295,20,Other,Hyderabad,Motorola,Android,5.2,10.2,287.1,169,6,479,6.1,4.2,1184,Education
+U00296,47,Other,Bangalore,OnePlus,Android,5.5,42.2,97.5,147,1,6769,7.5,2.7,1703,Education
+U00297,34,Male,Kolkata,Google Pixel,Android,3.7,11.1,122.3,99,5.8,1387,5.6,3.5,1431,Entertainment
+U00298,38,Other,Chennai,Apple,Android,10.8,16.6,54.1,53,4.1,4632,5.2,1.7,1522,Gaming
+U00299,41,Male,Ahmedabad,Apple,iOS,11.9,39.3,32.5,52,5,4009,7,1.8,1491,Education
+U00300,39,Female,Jaipur,Vivo,Android,3.4,18.7,141.4,165,2.9,623,7.6,3.3,1426,Education
+U00301,53,Male,Kolkata,Nokia,iOS,11.1,31.4,160.3,10,0.8,1086,6.7,2.2,1074,Education
+U00302,50,Female,Ahmedabad,Samsung,iOS,7,37.5,250.4,49,4.2,7733,7.8,1.5,1621,Social Media
+U00303,16,Male,Bangalore,Oppo,iOS,2.1,7.4,279.6,188,0.7,1474,3.9,0.2,1344,Entertainment
+U00304,25,Other,Bangalore,OnePlus,Android,5.7,4.6,279.5,88,3,9903,3.8,2.6,1330,Entertainment
+U00305,41,Other,Bangalore,Realme,iOS,4.7,12.3,132.9,169,3.3,5953,7.5,2.6,415,Education
+U00306,46,Female,Hyderabad,Apple,Android,2.1,22.3,210.7,154,3.7,8014,1.5,2.7,984,Work
+U00307,29,Male,Bangalore,OnePlus,iOS,3,46.4,244.8,59,1.9,6411,4.3,1.3,219,Education
+U00308,49,Female,Lucknow,Realme,iOS,1.9,22.2,127.2,12,4.6,7979,2.3,4.3,618,Gaming
+U00309,50,Female,Delhi,Samsung,iOS,10.9,15,238,56,1.7,605,4.3,4.4,1051,Social Media
+U00310,25,Male,Bangalore,Nokia,Android,6.2,22.1,91.1,110,1.4,6597,2.1,3.7,912,Social Media
+U00311,36,Female,Mumbai,Samsung,iOS,6.9,18.3,255.5,63,4.8,7078,5.8,2.9,1016,Work
+U00312,21,Other,Ahmedabad,Oppo,Android,6.7,24.6,181.5,53,1.7,2344,3.5,3,712,Work
+U00313,45,Male,Bangalore,OnePlus,iOS,10.6,27,236,44,1.9,3040,1.2,2.5,1564,Education
+U00314,60,Male,Jaipur,Motorola,iOS,2.5,37.8,162.4,103,1.9,4389,5.5,2.2,1217,Work
+U00315,22,Other,Hyderabad,Oppo,Android,1.2,34.9,34.7,39,2,8410,2.3,4.2,1723,Entertainment
+U00316,35,Male,Jaipur,Vivo,Android,11.7,5.2,100,96,1.7,4499,3.8,3,1197,Entertainment
+U00317,50,Other,Hyderabad,Vivo,Android,6.6,44.5,288.4,126,4.1,1187,6.5,0,437,Gaming
+U00318,20,Male,Pune,Realme,iOS,11,38.4,16.6,117,1.2,7812,1.6,4.7,975,Entertainment
+U00319,41,Other,Chennai,Motorola,iOS,11.3,46.3,169.2,61,5.1,6348,3.8,0.9,975,Entertainment
+U00320,40,Female,Kolkata,Samsung,iOS,9.3,23.2,159,83,5.2,9889,1.3,2.2,931,Social Media
+U00321,27,Other,Pune,Vivo,Android,5.1,36.5,56.9,151,2.3,6454,4.2,4.4,358,Entertainment
+U00322,52,Male,Kolkata,Xiaomi,Android,5.1,16.6,10.2,109,1.7,9210,3.1,2.7,575,Gaming
+U00323,30,Male,Pune,Samsung,iOS,2.9,22.9,160.6,79,2,2543,1.1,1.5,1970,Entertainment
+U00324,49,Female,Bangalore,Motorola,iOS,9.2,7.3,167,175,1.3,3303,3.4,0.5,415,Work
+U00325,59,Male,Ahmedabad,Google Pixel,Android,3.8,23.4,223.8,82,0.7,1029,2.5,4.9,1270,Work
+U00326,16,Female,Bangalore,Vivo,Android,3,48.6,117.7,131,5.2,4244,2.3,2.6,727,Social Media
+U00327,47,Other,Pune,Apple,Android,2.2,37.2,98.8,86,4.3,1185,2.3,3.3,512,Entertainment
+U00328,39,Other,Lucknow,Apple,iOS,1.9,20.2,279.8,24,4.5,6119,3.7,4.2,1185,Work
+U00329,19,Female,Delhi,Nokia,Android,1.1,29.9,98.1,69,2.5,5432,7.6,2.7,792,Gaming
+U00330,40,Female,Kolkata,OnePlus,iOS,9.1,37.3,138.2,154,1.4,643,6.2,4.4,1581,Gaming
+U00331,35,Other,Mumbai,Vivo,iOS,3.9,22,144.5,164,1.1,865,1.9,3.3,1716,Education
+U00332,25,Female,Ahmedabad,Vivo,Android,11,47.9,265.7,64,2.7,4924,3.2,2,1812,Entertainment
+U00333,50,Female,Pune,Google Pixel,Android,5.7,49.1,252,166,5.9,5660,2.3,4.6,1615,Gaming
+U00334,25,Other,Pune,Vivo,iOS,4.8,32.1,216.9,146,2,6665,3.3,4.2,481,Education
+U00335,45,Female,Pune,Oppo,Android,1.6,24.8,74.7,138,3.3,2012,7.5,2.8,1546,Education
+U00336,51,Male,Ahmedabad,Oppo,Android,4,29.4,27.7,150,3.1,3873,2.6,4.3,1966,Entertainment
+U00337,34,Male,Delhi,Motorola,Android,5.3,34.4,176.7,135,5.1,5017,5.4,4.6,625,Entertainment
+U00338,59,Female,Chennai,Oppo,iOS,11.5,46.7,233,23,3,7990,8,4.5,730,Social Media
+U00339,58,Male,Hyderabad,Realme,Android,11.4,11.1,78.9,77,3.9,7072,4.7,0.8,797,Work
+U00340,35,Male,Bangalore,Oppo,iOS,10.1,10,248.8,136,3.6,7334,1.4,1,1638,Gaming
+U00341,24,Other,Delhi,Samsung,iOS,5.1,12.6,120.7,19,5.9,1546,1.4,4.8,704,Social Media
+U00342,59,Other,Bangalore,Vivo,iOS,8.1,11.5,261.4,178,1.1,2371,8,0.4,769,Education
+U00343,36,Female,Kolkata,Nokia,Android,10.3,2.8,90.2,55,1.7,4561,2.9,0.6,111,Gaming
+U00344,50,Male,Mumbai,Xiaomi,iOS,9.5,41.5,48.5,174,2.8,9353,2.4,3.9,655,Social Media
+U00345,51,Female,Lucknow,Motorola,iOS,9.9,46.4,245.5,77,4.7,1239,2.3,2.5,1041,Work
+U00346,31,Other,Bangalore,Realme,Android,4.2,34.3,228,170,2.7,9848,7.9,1.9,1375,Education
+U00347,38,Male,Pune,Vivo,Android,11.9,22.9,13.2,168,4.7,3302,5.9,2.3,113,Gaming
+U00348,47,Male,Chennai,Realme,Android,4.3,27.9,34.3,92,2.8,3132,5.4,3.4,665,Work
+U00349,58,Other,Pune,Xiaomi,iOS,3,17.6,165.5,68,1.1,6788,1.8,2.2,868,Education
+U00350,41,Other,Hyderabad,Nokia,Android,7.7,22,194.3,31,1.1,6911,5.3,0.7,207,Social Media
+U00351,35,Male,Delhi,Motorola,Android,8.1,31.1,62.1,42,5.3,4995,5.3,0.3,221,Entertainment
+U00352,34,Male,Ahmedabad,Motorola,iOS,6.4,27.2,193.5,83,2.4,571,2.5,2.6,426,Gaming
+U00353,17,Male,Bangalore,Google Pixel,Android,11.7,40.2,252,142,3.9,8459,6.5,2.1,417,Education
+U00354,57,Male,Chennai,Vivo,iOS,5.1,29.4,103.5,13,1.7,5617,1.5,2.4,360,Gaming
+U00355,22,Male,Mumbai,Xiaomi,iOS,7.6,38.4,73.9,89,5,639,6,2.9,1976,Entertainment
+U00356,54,Male,Pune,Apple,iOS,6.4,41,114.8,20,5.5,5010,3.7,1.1,653,Social Media
+U00357,46,Other,Pune,Nokia,Android,11.5,33.3,53.7,179,5.2,3928,5.7,2.5,389,Entertainment
+U00358,25,Female,Kolkata,Vivo,Android,5.8,6.7,66.9,21,1.5,1121,4.9,0.8,1888,Work
+U00359,31,Other,Jaipur,Apple,Android,9.6,15.1,218.8,19,3.2,578,1.2,2.2,1037,Work
+U00360,47,Male,Pune,OnePlus,iOS,2.7,44.9,279.4,108,3.6,7854,3.8,1.3,211,Social Media
+U00361,53,Female,Hyderabad,Nokia,Android,11.7,34.3,210.6,63,3.4,7823,4.3,4,1375,Education
+U00362,43,Female,Delhi,Apple,iOS,10,47.5,88.8,151,5.3,1875,1.8,3.8,181,Entertainment
+U00363,49,Female,Bangalore,Xiaomi,iOS,5.5,15.1,285.1,116,3.2,3253,7.1,4.2,247,Social Media
+U00364,31,Female,Kolkata,Vivo,iOS,8.6,42.5,290.1,182,1.7,4949,1.5,4.5,326,Gaming
+U00365,59,Other,Jaipur,Nokia,iOS,5.3,7,292.6,121,4.6,3150,2.1,3.3,113,Social Media
+U00366,59,Other,Bangalore,OnePlus,iOS,9.7,45.2,70.1,48,5.9,5121,6.7,2.5,681,Gaming
+U00367,27,Male,Mumbai,Vivo,iOS,9.3,12.3,111.6,110,5.9,9661,5.3,1.5,1634,Work
+U00368,56,Male,Kolkata,Xiaomi,Android,4.1,29.5,59.4,95,6,4047,6.6,0.6,898,Social Media
+U00369,19,Other,Delhi,Vivo,iOS,6.5,11.9,167.3,92,4.1,1710,2.7,2.2,295,Education
+U00370,32,Female,Delhi,Realme,iOS,2.9,7.7,101.2,98,2.3,4794,7.4,4.4,1300,Social Media
+U00371,49,Female,Hyderabad,OnePlus,Android,7.2,3.6,200.6,43,4.6,1912,3.8,0.3,1150,Social Media
+U00372,44,Other,Chennai,Xiaomi,Android,4,46,233.3,28,5.3,7252,6.3,3.1,1371,Entertainment
+U00373,50,Other,Mumbai,Nokia,iOS,5.7,8.3,28,11,2.3,2500,6.2,4.8,322,Entertainment
+U00374,56,Female,Delhi,Motorola,iOS,1.2,1.9,27.8,103,2.1,889,3.9,0.4,1231,Work
+U00375,25,Other,Jaipur,Google Pixel,Android,3.1,19.9,222.7,198,2.9,2628,2,3.4,1860,Education
+U00376,21,Male,Delhi,Nokia,iOS,11.8,10.3,144.3,124,5,3120,0.8,2.5,1012,Education
+U00377,32,Female,Kolkata,Oppo,Android,9,7.1,70.1,140,4.7,2214,7.4,1.7,789,Education
+U00378,39,Male,Hyderabad,Nokia,iOS,8.3,36.4,245.8,77,2.8,9856,4.6,1.9,229,Social Media
+U00379,48,Female,Mumbai,OnePlus,iOS,8.5,20.9,184.1,78,2.1,8186,7.2,3.3,188,Gaming
+U00380,28,Other,Hyderabad,Vivo,Android,10,2.7,104.9,66,0.6,4988,4,1.5,1802,Social Media
+U00381,50,Male,Jaipur,OnePlus,Android,10.3,3.4,231.7,80,2.7,1729,4.6,1,1280,Entertainment
+U00382,42,Female,Kolkata,Realme,Android,3.1,30,212,68,5.3,3228,5.9,0,539,Social Media
+U00383,57,Other,Mumbai,OnePlus,iOS,4.7,8.2,193.8,186,1.5,8126,2.8,0.1,764,Entertainment
+U00384,23,Male,Delhi,Xiaomi,iOS,10.7,36.7,252.5,84,1.2,1654,4.6,1.6,1798,Social Media
+U00385,38,Male,Bangalore,Samsung,iOS,4.2,33.6,15.6,193,4.3,7485,0.6,0.6,678,Social Media
+U00386,57,Male,Ahmedabad,Nokia,Android,11.6,10.1,29.5,61,5.8,1623,6.1,1.6,1401,Entertainment
+U00387,16,Other,Jaipur,OnePlus,iOS,1.8,8.4,127,200,2.5,7755,3.6,2.2,1845,Gaming
+U00388,35,Other,Kolkata,Nokia,Android,2.2,4.6,216.6,27,4.4,6755,4.6,4.7,1298,Education
+U00389,41,Male,Bangalore,Samsung,iOS,5.4,36.7,269.3,55,2.4,8944,6.7,1.5,1954,Gaming
+U00390,42,Male,Kolkata,Vivo,iOS,7.4,42.1,203.1,39,2.6,947,1.7,2.8,208,Entertainment
+U00391,55,Male,Chennai,Nokia,iOS,1.7,46.6,14.2,77,4.4,5200,7.4,2.3,983,Work
+U00392,26,Other,Mumbai,Vivo,Android,4.3,22.4,82.4,18,5.8,2430,3.4,0,1075,Entertainment
+U00393,49,Female,Bangalore,OnePlus,iOS,3.9,11,151.1,57,2.9,8521,4.6,3.6,609,Gaming
+U00394,26,Other,Delhi,Oppo,Android,9,16.1,290.8,181,1.9,9051,3.6,1,222,Education
+U00395,36,Other,Chennai,Samsung,iOS,10.8,5.3,52.5,125,3.8,9878,6.6,4.1,1476,Social Media
+U00396,38,Female,Jaipur,Realme,iOS,3.8,39.1,201.5,162,4.1,5268,1,1.7,1816,Social Media
+U00397,48,Other,Delhi,Samsung,iOS,9.2,36.9,105.4,172,3.3,5567,6.4,1.5,887,Social Media
+U00398,17,Other,Pune,Samsung,Android,3.4,47.4,76,24,1.6,4666,7.8,3.6,269,Gaming
+U00399,20,Male,Bangalore,Motorola,iOS,9.2,35.7,130.7,60,2,7998,5.7,0.7,847,Entertainment
+U00400,16,Male,Lucknow,Google Pixel,Android,10.5,11.1,264.7,13,5.8,3720,3.5,4.8,241,Work
+U00401,43,Male,Hyderabad,Google Pixel,Android,2.8,20.7,54.1,22,2.5,577,5.3,3.7,1416,Social Media
+U00402,58,Male,Mumbai,Apple,Android,7.7,2.6,255,127,2.1,9817,2.4,3.9,1651,Entertainment
+U00403,60,Female,Hyderabad,Realme,Android,8.4,11.8,291.5,171,0.6,7149,5.5,1.8,1646,Work
+U00404,39,Male,Pune,Google Pixel,iOS,4.3,31.7,145.2,101,3.3,9156,2.9,4.4,512,Gaming
+U00405,56,Other,Lucknow,Samsung,iOS,8.2,24.9,73.5,97,1.5,2913,7.7,0.9,249,Education
+U00406,35,Other,Kolkata,Vivo,Android,8.7,36.8,77.4,130,3.8,8845,3.5,2,1647,Entertainment
+U00407,35,Female,Ahmedabad,Motorola,iOS,7.5,43.1,283.8,46,1.5,6544,3.9,3.3,1016,Gaming
+U00408,34,Other,Mumbai,Google Pixel,Android,5.9,21.8,167.3,16,2.5,1327,2.5,4.4,590,Work
+U00409,30,Female,Ahmedabad,Realme,Android,11.2,17.6,223.4,146,1,669,6.2,2.4,1823,Education
+U00410,50,Male,Bangalore,OnePlus,iOS,10.6,47.5,36.5,139,3.4,6123,2.4,4.1,236,Social Media
+U00411,32,Female,Jaipur,Apple,iOS,11.3,16.4,78.6,61,1.7,4370,1.3,4.9,939,Social Media
+U00412,53,Male,Hyderabad,Nokia,iOS,11.5,39.3,167.8,191,3.2,7747,6.5,1.5,1346,Entertainment
+U00413,46,Other,Bangalore,Oppo,iOS,4,20.6,79.6,109,5,2540,1.1,0.7,361,Social Media
+U00414,56,Female,Hyderabad,Nokia,Android,4.5,1.9,149,25,2.7,4827,1.1,0.8,362,Gaming
+U00415,54,Female,Lucknow,Apple,iOS,11.7,21.6,143.2,55,3.4,4023,6.3,1.3,1656,Gaming
+U00416,55,Female,Ahmedabad,OnePlus,iOS,10.8,46,20.8,37,4,2232,1,2,191,Entertainment
+U00417,55,Female,Kolkata,Apple,Android,2.9,17.9,12.6,28,2.4,5844,7.3,2.9,1512,Social Media
+U00418,53,Male,Hyderabad,Vivo,Android,11.4,3.6,196.3,11,5.4,346,2.6,0.3,1078,Social Media
+U00419,44,Other,Pune,Xiaomi,iOS,4.6,9.6,239.9,91,1.4,6773,4.1,2.7,535,Entertainment
+U00420,30,Other,Pune,Vivo,iOS,11.7,34.4,9.5,115,3.3,892,5.9,4.2,1639,Education
+U00421,54,Female,Kolkata,Google Pixel,iOS,7.2,23.3,128.5,24,4.9,4910,2.6,2.1,1880,Gaming
+U00422,20,Female,Pune,Xiaomi,iOS,5.3,22.3,196.6,18,5.3,108,3.6,1.3,390,Entertainment
+U00423,49,Female,Delhi,Samsung,Android,6.6,23.5,203,199,4.4,4380,2.2,4.8,1866,Gaming
+U00424,32,Female,Kolkata,Nokia,iOS,5.9,6,234.2,121,5.5,5403,0.8,2.1,631,Education
+U00425,39,Female,Delhi,OnePlus,Android,11.4,17.4,29.6,66,5.1,9783,4.8,0.3,995,Entertainment
+U00426,58,Male,Chennai,OnePlus,Android,3.8,28,190.5,99,3.9,1943,7.4,0.9,524,Work
+U00427,33,Female,Jaipur,Apple,Android,7.7,18.7,189.4,109,1.8,8766,5.1,1.6,1212,Gaming
+U00428,37,Female,Chennai,Google Pixel,iOS,7.8,13.2,190,31,5.1,7441,3.4,0.3,705,Entertainment
+U00429,42,Female,Delhi,OnePlus,Android,5.4,48.3,280.7,23,3.5,8797,6.3,1.3,1786,Work
+U00430,28,Other,Kolkata,OnePlus,Android,9.1,25.4,128.5,43,2.5,8489,7.6,1.3,1664,Gaming
+U00431,56,Female,Bangalore,Nokia,Android,2.5,6,173.2,42,5.6,5271,6.8,2.9,829,Entertainment
+U00432,50,Other,Lucknow,Apple,iOS,4.6,18.2,216.6,191,2.4,6884,6.9,4.4,1998,Education
+U00433,35,Other,Ahmedabad,Xiaomi,iOS,1.6,22.1,28.6,190,2.8,7460,4.4,4.8,1960,Work
+U00434,49,Other,Bangalore,OnePlus,iOS,7.5,46.3,107.6,154,3.3,2252,5.9,3.7,331,Education
+U00435,21,Female,Kolkata,Google Pixel,iOS,4.6,28.4,99.4,103,0.9,1233,4.6,1.1,1317,Gaming
+U00436,38,Male,Bangalore,Vivo,iOS,3.2,25.2,66.9,121,1.1,8121,1.6,3.4,1469,Entertainment
+U00437,52,Other,Kolkata,Realme,Android,9.5,9.5,174.6,86,0.7,5434,6.8,3.1,1012,Entertainment
+U00438,58,Other,Hyderabad,Samsung,iOS,5.7,10.2,265.4,125,3.9,4095,7.8,4,1418,Entertainment
+U00439,21,Other,Chennai,Google Pixel,Android,8.8,47.9,46.6,73,1,2018,4.8,2.4,119,Education
+U00440,17,Male,Pune,OnePlus,iOS,4.8,33.8,12.4,86,2.4,4220,4.2,1.2,1524,Social Media
+U00441,21,Male,Kolkata,OnePlus,iOS,11.6,23.3,100.6,13,2.6,8849,5.4,0.1,327,Gaming
+U00442,27,Female,Ahmedabad,Google Pixel,iOS,10.3,3.3,117.3,123,1.7,6088,6.9,3.8,1388,Work
+U00443,35,Other,Lucknow,OnePlus,Android,7.4,10.7,219.6,76,1,7666,5.5,2.5,1563,Work
+U00444,58,Male,Lucknow,Xiaomi,iOS,2.5,26.2,119.4,138,1.6,2361,3.4,2,572,Education
+U00445,19,Other,Pune,Vivo,iOS,9.5,36.6,223.8,34,5.3,3685,2,0.1,1092,Social Media
+U00446,17,Male,Mumbai,Xiaomi,Android,6.5,33.8,214.7,40,1.7,2733,3.1,4.4,229,Social Media
+U00447,51,Other,Bangalore,Samsung,Android,3,13.2,141.3,130,2.9,2055,3.2,4.8,781,Education
+U00448,50,Female,Bangalore,Nokia,iOS,5.2,38.2,180.7,95,2.2,2231,2.7,1.8,1691,Social Media
+U00449,52,Male,Bangalore,Xiaomi,Android,11.3,34.8,63.6,52,2.3,270,4.8,3.7,1891,Gaming
+U00450,19,Other,Lucknow,Motorola,Android,9.6,40.5,5.7,13,5.3,1440,5.4,1.2,1808,Social Media
+U00451,44,Other,Hyderabad,Nokia,Android,10.5,10.5,44.2,34,4.9,5127,3,4.9,1542,Education
+U00452,52,Other,Hyderabad,OnePlus,iOS,5.3,18.9,179.1,83,4,9700,4.2,4.8,596,Social Media
+U00453,47,Male,Pune,Samsung,Android,10.8,7.1,260,111,0.6,6423,5.2,3.3,1346,Work
+U00454,48,Other,Bangalore,Xiaomi,Android,11.1,25.3,11.1,123,2.9,3183,6.8,2.7,222,Gaming
+U00455,60,Female,Bangalore,OnePlus,iOS,7.4,43.3,44.4,121,1.9,2644,2.6,4.5,941,Social Media
+U00456,60,Other,Bangalore,OnePlus,iOS,6.3,12.5,277.4,82,5.3,4728,4.5,2.6,1237,Work
+U00457,60,Other,Ahmedabad,Google Pixel,iOS,2.2,2.7,289.4,152,1.3,1658,7.2,2.4,310,Entertainment
+U00458,22,Male,Bangalore,Realme,iOS,3.8,33.3,162,104,0.8,3717,1.2,2.5,258,Social Media
+U00459,57,Other,Bangalore,Samsung,Android,10.9,10.2,282,27,1,7920,4.3,4.3,1209,Social Media
+U00460,55,Male,Lucknow,Xiaomi,iOS,9.4,44.6,105.8,83,2.1,6577,6.4,3.5,1302,Gaming
+U00461,15,Male,Lucknow,Motorola,Android,1.7,38.8,114.5,164,2,7945,1.5,4.7,1965,Social Media
+U00462,17,Male,Kolkata,Oppo,Android,10.2,15.4,22.6,47,3.2,2373,4.4,2.9,1751,Gaming
+U00463,21,Male,Ahmedabad,Motorola,Android,5.2,38.6,256.8,79,2.5,8420,5.2,4.5,661,Entertainment
+U00464,51,Male,Mumbai,Vivo,Android,11.2,13.8,218.5,117,0.8,3796,1.3,1.4,436,Work
+U00465,16,Female,Jaipur,Vivo,Android,4.5,9.7,207.6,188,1.7,9777,2.4,3.2,1864,Work
+U00466,38,Male,Chennai,Motorola,Android,6.3,2.9,174.6,181,2.3,3065,5.8,2.5,187,Education
+U00467,59,Female,Mumbai,Realme,iOS,7.7,10.8,135.7,164,4.4,8654,1.3,1.3,1879,Education
+U00468,17,Other,Mumbai,Motorola,iOS,2.7,33.6,82.2,33,1.2,4740,6.5,4.3,302,Entertainment
+U00469,48,Female,Pune,OnePlus,Android,9.5,46,182.2,43,4.3,4360,3,0.3,1106,Entertainment
+U00470,40,Male,Bangalore,Realme,Android,9,14.8,176.3,124,2,9648,5.5,2,1826,Gaming
+U00471,15,Male,Delhi,Vivo,Android,7.9,14.9,286.8,133,5.7,6467,3.4,2.6,113,Education
+U00472,48,Other,Lucknow,OnePlus,iOS,6.7,47.5,257.2,66,3.5,4684,1.9,4.3,276,Social Media
+U00473,22,Other,Bangalore,Vivo,Android,10.3,13.9,84.8,80,2,2648,1.8,2.2,108,Gaming
+U00474,33,Other,Bangalore,Motorola,Android,2.4,37.2,200.4,186,0.6,649,7.8,2.7,1255,Social Media
+U00475,41,Male,Chennai,Vivo,Android,5.4,13.2,193.3,86,5.2,1532,2.2,2.2,747,Entertainment
+U00476,24,Female,Bangalore,Nokia,iOS,10.7,33.8,249.8,194,4.8,7645,0.8,4.5,400,Gaming
+U00477,44,Male,Bangalore,Apple,iOS,6.2,19.8,43.8,159,2.7,3657,2.7,2.7,623,Work
+U00478,54,Male,Chennai,Vivo,iOS,7.9,39.3,246.7,76,2.9,5627,5,1.8,1051,Gaming
+U00479,42,Female,Jaipur,Samsung,Android,9.5,25,121.5,152,1.3,420,6.8,2.1,124,Work
+U00480,27,Female,Hyderabad,OnePlus,iOS,10.1,34.7,257.3,17,4.8,2035,6.6,0.3,1064,Work
+U00481,47,Male,Pune,Google Pixel,iOS,4.1,31.2,46,190,2.1,652,1.5,1.1,1365,Social Media
+U00482,18,Male,Ahmedabad,Vivo,iOS,11.4,7.2,206.2,134,4.4,9133,2.3,4.5,1304,Gaming
+U00483,42,Male,Kolkata,OnePlus,iOS,1.9,48.7,76.7,20,4.9,2960,7.4,0.9,626,Work
+U00484,44,Male,Bangalore,Realme,Android,10.2,21.2,171.3,90,5.3,9922,1.6,0.9,1865,Social Media
+U00485,25,Male,Chennai,Oppo,Android,2.2,45.7,102.4,93,3.7,8815,5.5,2,1228,Social Media
+U00486,29,Other,Ahmedabad,Apple,iOS,8.8,22.9,77,166,4.7,3383,6.4,4.7,1569,Gaming
+U00487,45,Female,Delhi,Motorola,iOS,8.4,10.3,296.4,120,1.2,2042,2.6,1.1,1796,Education
+U00488,48,Other,Pune,Google Pixel,iOS,5.9,45.3,13.9,21,4.6,3650,6.7,4.3,623,Work
+U00489,53,Other,Delhi,Realme,Android,9.3,3,246.7,23,3.7,6511,1.8,0.7,751,Entertainment
+U00490,17,Female,Bangalore,OnePlus,iOS,3.8,2.4,296.7,87,5.7,543,5.1,1.7,842,Entertainment
+U00491,57,Male,Delhi,Apple,iOS,5.9,34.9,149.6,37,2,9041,2.5,2,787,Education
+U00492,34,Male,Lucknow,Realme,Android,10.4,42.9,217.7,62,1.5,4715,7.1,0.1,1010,Work
+U00493,21,Female,Chennai,Oppo,iOS,11,28.7,223.3,151,4.7,2597,7.9,3.9,1318,Entertainment
+U00494,31,Male,Pune,Vivo,Android,1.2,12,297.8,107,3.1,3584,1.5,4.8,1722,Gaming
+U00495,28,Other,Bangalore,Google Pixel,iOS,6.5,7.3,38.4,49,4,1975,6.8,0.8,1617,Entertainment
+U00496,22,Other,Pune,Samsung,Android,11.8,42.9,284.4,165,0.8,2874,2.2,3.4,779,Work
+U00497,41,Other,Bangalore,Vivo,Android,5.8,37.5,220.3,154,0.7,1188,1.3,0.3,655,Gaming
+U00498,29,Female,Mumbai,Google Pixel,iOS,10,11.3,212.1,24,1,6311,5.3,3.7,1032,Entertainment
+U00499,48,Female,Hyderabad,Vivo,Android,4.5,49.6,280.6,143,3.5,5536,2.3,1.9,126,Social Media
+U00500,60,Other,Kolkata,Xiaomi,Android,5.9,34.7,280.4,165,3.1,1431,3.8,1.6,1500,Gaming
+U00501,32,Male,Hyderabad,Oppo,iOS,8.7,46,196.7,144,3.6,2781,0.9,1.7,953,Gaming
+U00502,39,Female,Ahmedabad,Nokia,Android,11.1,25.3,116.6,79,1.4,8748,6.1,3.4,1726,Work
+U00503,55,Female,Mumbai,Xiaomi,iOS,1.7,29.2,286.8,199,4.8,1413,4.9,1.9,620,Social Media
+U00504,18,Male,Pune,Samsung,iOS,2,21.4,118.3,195,2.2,8432,1.5,4.4,1158,Social Media
+U00505,47,Other,Pune,Xiaomi,iOS,9.9,34.5,52,65,5,5601,2.9,2.9,219,Education
+U00506,57,Other,Pune,Realme,iOS,5,22.6,123.6,14,5.7,3600,7.1,1.3,1747,Entertainment
+U00507,43,Other,Delhi,Vivo,Android,7.8,43.9,98.6,46,5.2,8911,1.4,1.3,206,Gaming
+U00508,52,Male,Kolkata,Vivo,iOS,7.5,2.5,297.4,47,1.7,3932,1.9,0.7,108,Work
+U00509,32,Female,Jaipur,Nokia,Android,8.6,39.2,228.2,37,3.4,6050,6.3,3,866,Entertainment
+U00510,50,Male,Hyderabad,Oppo,iOS,7.1,26.6,114.7,84,5.8,2330,2.9,3.3,1476,Education
+U00511,18,Male,Pune,Google Pixel,iOS,6.9,19.4,113.4,159,3.8,2399,4.9,2.2,912,Education
+U00512,58,Other,Hyderabad,OnePlus,Android,11.3,43.6,217.3,191,5.5,916,5.6,2.3,1066,Education
+U00513,17,Male,Pune,OnePlus,Android,1.2,36.5,235.3,19,4.3,157,3.5,2.4,466,Entertainment
+U00514,29,Female,Ahmedabad,Nokia,iOS,2.1,40.3,265.6,104,3.6,8464,3.1,2.5,1061,Entertainment
+U00515,17,Male,Jaipur,Samsung,Android,11.7,28.2,59.9,155,1.6,5046,7.3,1.5,634,Work
+U00516,60,Male,Ahmedabad,Vivo,iOS,1.3,28.3,175.2,174,1.7,9817,0.7,0.2,956,Education
+U00517,53,Male,Delhi,Oppo,Android,10.9,22.7,30.8,196,2.1,223,5.1,1.9,994,Social Media
+U00518,31,Other,Chennai,Xiaomi,iOS,2.9,26,121.8,179,2.1,5628,4.8,1.2,1163,Work
+U00519,36,Female,Pune,Nokia,iOS,5,45,242.9,136,1,1087,6.3,4.1,1721,Work
+U00520,38,Female,Bangalore,Motorola,Android,6.3,22.9,106.2,184,2.8,7458,2.3,1.2,1993,Social Media
+U00521,23,Male,Bangalore,Vivo,Android,9.6,7.8,215.5,162,1.5,4889,5.5,2.4,1850,Work
+U00522,20,Male,Kolkata,Oppo,Android,8.6,19.7,166.8,23,1.9,7714,1.2,2.1,388,Social Media
+U00523,49,Other,Delhi,Realme,iOS,4.1,46.5,65.6,178,1.1,7339,4.8,4.4,573,Social Media
+U00524,50,Male,Kolkata,Google Pixel,iOS,9.3,47.2,226.1,51,4.1,9106,5.3,0.3,385,Gaming
+U00525,41,Male,Ahmedabad,Motorola,iOS,9.7,14,166.7,173,5.5,1204,4.9,3,1268,Gaming
+U00526,43,Other,Chennai,Motorola,Android,10.6,6.6,286.4,13,3.5,3291,3.4,3.2,1030,Work
+U00527,15,Other,Delhi,OnePlus,iOS,11.8,37.8,176.1,10,4.6,4886,4.5,4,1298,Social Media
+U00528,15,Female,Pune,Nokia,Android,11.6,30.5,82.4,38,0.7,2083,2,1.4,1969,Education
+U00529,18,Other,Jaipur,Apple,iOS,3.4,34.7,166.7,123,4.8,3933,3.1,3.2,292,Entertainment
+U00530,57,Female,Hyderabad,Apple,Android,7.4,6.1,121,198,4.6,2980,6.4,1.1,796,Work
+U00531,19,Female,Ahmedabad,Vivo,Android,2.6,11.2,231.9,121,3.1,2408,5.3,4.4,479,Work
+U00532,37,Other,Mumbai,Xiaomi,Android,1.9,34.6,105.6,100,4.1,3822,4.9,0.7,601,Entertainment
+U00533,28,Female,Hyderabad,Oppo,iOS,6.7,42.3,277,140,1.6,7891,2.7,3.4,482,Work
+U00534,28,Other,Chennai,Motorola,Android,7.9,23.3,66.2,134,0.7,8992,1.5,1.9,755,Gaming
+U00535,34,Male,Hyderabad,Xiaomi,iOS,4.3,36,67.8,37,3.7,830,7.2,0.5,277,Entertainment
+U00536,41,Female,Chennai,OnePlus,Android,2,14.2,283.3,132,5.8,2168,5.5,5,1735,Entertainment
+U00537,54,Female,Bangalore,Oppo,Android,7.1,11.4,16.9,198,5.5,2112,4,0.9,1047,Education
+U00538,17,Female,Delhi,Apple,iOS,2.9,34.6,118.2,155,2.5,3928,7.3,1,788,Social Media
+U00539,18,Female,Kolkata,Google Pixel,Android,3.2,41.1,64.8,154,4,5834,3.1,1.1,467,Social Media
+U00540,26,Female,Delhi,Nokia,Android,11.6,27,138.8,66,0.5,6429,5.2,4,622,Social Media
+U00541,40,Male,Mumbai,Apple,Android,10.1,17.6,32.7,188,4.1,1672,3.9,4.7,988,Education
+U00542,48,Other,Pune,Vivo,iOS,4.8,13.7,184.6,127,1,3945,7.1,2.4,1234,Gaming
+U00543,60,Other,Chennai,Realme,iOS,10.2,17.6,237.1,136,4.6,9842,6.1,2.3,1358,Entertainment
+U00544,26,Male,Jaipur,Xiaomi,Android,11.5,28.2,31.4,49,1.2,9052,5.1,2.8,1087,Entertainment
+U00545,20,Other,Delhi,Oppo,iOS,8.7,16.3,238.9,164,3.4,9468,8,1.2,776,Gaming
+U00546,44,Other,Pune,Motorola,iOS,1,15.6,184.6,142,1.7,2004,7.2,1.4,770,Social Media
+U00547,56,Male,Ahmedabad,OnePlus,Android,7.2,39.1,92.5,45,2.1,7871,1.9,1.2,188,Education
+U00548,44,Male,Ahmedabad,Xiaomi,iOS,3.9,50,59.9,16,2.4,2919,3.2,1.4,1465,Entertainment
+U00549,44,Male,Lucknow,OnePlus,Android,7.8,2.6,219.3,159,1.7,1356,1.1,3.4,1265,Education
+U00550,31,Male,Bangalore,Realme,Android,8.3,37.2,20.1,14,1.7,4912,4.7,4.1,288,Gaming
+U00551,25,Other,Kolkata,OnePlus,iOS,1.8,31,192.4,41,2.3,8874,1.5,2.3,742,Gaming
+U00552,28,Female,Mumbai,Xiaomi,iOS,6.9,37.8,139.4,129,6,4585,6.9,5,1654,Entertainment
+U00553,16,Male,Bangalore,Xiaomi,iOS,8.9,9.4,84,161,2.9,1439,1.2,3.8,1348,Entertainment
+U00554,54,Male,Jaipur,Motorola,Android,10.6,7.8,235.8,43,3,4052,5.2,4.6,1026,Work
+U00555,23,Male,Ahmedabad,OnePlus,Android,4,14.5,220.4,163,5.1,7160,3.6,4.4,406,Entertainment
+U00556,17,Male,Delhi,Xiaomi,Android,4.9,5.8,290.2,60,1.8,8701,4.7,1,1047,Social Media
+U00557,46,Other,Pune,Google Pixel,iOS,2.3,45.8,176.4,42,0.7,9715,5.2,1.4,1731,Gaming
+U00558,45,Other,Kolkata,Motorola,Android,8.2,18.5,210.8,132,4.4,7666,5,4.6,465,Work
+U00559,33,Female,Hyderabad,Oppo,iOS,6.5,2,164.2,125,3.9,4491,0.6,3,1524,Gaming
+U00560,32,Female,Lucknow,Apple,iOS,2.5,33.5,249.3,71,3.1,2776,6.9,1.1,254,Work
+U00561,44,Female,Hyderabad,Realme,Android,8.7,25.7,161.6,90,2.7,8409,5.9,3.9,995,Work
+U00562,48,Male,Kolkata,Google Pixel,iOS,8.3,46.1,228.1,53,5.1,7165,6.7,1.3,440,Work
+U00563,49,Male,Chennai,Motorola,iOS,9.8,13.4,279,41,1,779,6.4,3.2,1578,Entertainment
+U00564,30,Other,Delhi,Google Pixel,iOS,4.2,39.4,245.9,182,4.8,3158,3.7,3.9,337,Education
+U00565,42,Other,Pune,Realme,Android,5.7,36.2,157.7,67,2.6,1587,4.2,5,451,Education
+U00566,24,Female,Chennai,Google Pixel,Android,2.2,4.7,142.2,55,2,749,2.2,3,1115,Entertainment
+U00567,56,Female,Mumbai,Nokia,Android,4.4,4.1,238.8,44,1.9,9670,6,4.8,222,Social Media
+U00568,55,Other,Ahmedabad,Realme,Android,7.1,7.9,289.8,21,2.9,1557,3.2,2.9,1804,Work
+U00569,57,Male,Pune,Motorola,Android,9.1,48.7,154.1,111,4.2,5269,5.3,4,1551,Gaming
+U00570,26,Other,Delhi,OnePlus,Android,3.6,7.6,189.7,33,4.9,9529,6.7,0.1,252,Work
+U00571,21,Female,Kolkata,Samsung,iOS,11.3,37.4,150.9,20,4.1,8841,4.7,1.3,1715,Education
+U00572,37,Female,Chennai,Realme,Android,5.8,37.2,231.1,167,3,5057,2.5,0.1,507,Social Media
+U00573,19,Other,Kolkata,Oppo,iOS,7.8,23.6,175.8,184,2.5,7388,5,0.7,845,Education
+U00574,47,Other,Jaipur,Motorola,Android,1.3,14.4,210,12,2.5,6467,1.6,4.6,1007,Work
+U00575,24,Other,Ahmedabad,Oppo,iOS,4.4,18.7,84.5,179,5.9,272,1.4,1.7,1207,Education
+U00576,19,Other,Kolkata,Oppo,Android,2.9,17.1,222,145,5.3,5803,1.5,3.5,1377,Gaming
+U00577,33,Female,Bangalore,Nokia,Android,9.6,30.9,61.7,100,3.1,5328,7.6,1.4,385,Social Media
+U00578,28,Other,Bangalore,Realme,Android,11.8,19.6,26.2,170,4.6,6522,6.7,4.4,1108,Education
+U00579,57,Male,Jaipur,Apple,iOS,8.8,15.2,94.6,33,2.9,9241,6.4,4.4,1817,Work
+U00580,33,Male,Delhi,Realme,iOS,9.3,14.3,228.8,157,3.7,7741,6,0.1,125,Education
+U00581,52,Male,Jaipur,Vivo,Android,7.1,37.5,164.6,135,3.7,6164,7.1,1.2,326,Work
+U00582,58,Female,Hyderabad,Vivo,Android,2.1,8.5,98.6,65,6,1196,1.6,4.9,124,Gaming
+U00583,35,Other,Bangalore,Google Pixel,Android,10.2,11,119.5,131,6,892,3.7,3.8,506,Gaming
+U00584,52,Female,Ahmedabad,Vivo,iOS,1.6,28,129.6,42,4,5217,5.8,2.9,1542,Education
+U00585,56,Female,Jaipur,Oppo,Android,5.5,48.5,254.6,113,2.1,6598,3.6,1.2,1943,Gaming
+U00586,28,Other,Chennai,Apple,iOS,10.3,30.8,124,147,0.7,8405,1,2.6,728,Gaming
+U00587,43,Other,Delhi,Apple,iOS,4.7,4.8,278.9,73,2.1,6123,3.5,2.5,1518,Work
+U00588,19,Female,Chennai,Samsung,iOS,5.7,29.3,92.3,123,5,4371,7.5,0.9,799,Social Media
+U00589,42,Female,Delhi,Google Pixel,Android,4.8,24.1,285.2,101,5.2,6670,1.5,2.1,1495,Gaming
+U00590,31,Female,Bangalore,Xiaomi,iOS,2.3,11.3,213.4,38,6,1530,2.2,1,1122,Work
+U00591,59,Male,Delhi,Motorola,iOS,11.6,41,278.4,103,5.2,7935,5.8,0.2,800,Entertainment
+U00592,44,Female,Bangalore,Nokia,iOS,11.8,17,108,86,1.5,5974,4.1,4.1,1289,Entertainment
+U00593,15,Other,Hyderabad,Apple,iOS,10.8,16.6,108.3,136,5.1,745,4,4.4,1986,Work
+U00594,36,Other,Bangalore,Nokia,Android,8.9,34.3,286.9,14,0.7,8888,5.1,3.5,1026,Gaming
+U00595,54,Female,Hyderabad,Samsung,iOS,7.4,46.1,148.6,82,0.8,7460,6.8,4.3,1904,Gaming
+U00596,37,Other,Bangalore,Nokia,iOS,9.8,42.4,270.9,22,2.8,6891,4.3,0.2,490,Entertainment
+U00597,56,Other,Lucknow,Realme,Android,10.6,6,57.2,117,3.5,3041,7,3.8,1257,Gaming
+U00598,21,Male,Jaipur,Apple,iOS,7.5,9.8,137.4,36,2.2,2150,1.4,4.9,865,Social Media
+U00599,27,Other,Jaipur,Samsung,iOS,2,30.4,170.5,40,4.1,5721,0.9,4.7,1265,Gaming
+U00600,53,Female,Bangalore,Xiaomi,Android,3.5,42.7,29.3,64,3.7,868,6.4,3.3,1241,Social Media
+U00601,29,Other,Bangalore,Oppo,Android,9,40.9,285.9,128,5.2,2011,1.8,1.9,350,Work
+U00602,25,Female,Hyderabad,Apple,Android,11.7,43.3,207.1,75,1.3,6700,4,0.1,1785,Education
+U00603,56,Other,Mumbai,Xiaomi,Android,8.9,25.6,44.7,95,4.4,9059,3.9,2.3,1506,Work
+U00604,42,Male,Chennai,Samsung,iOS,3.1,33.3,246.1,73,1,1388,4.4,1.5,923,Social Media
+U00605,52,Male,Ahmedabad,Nokia,iOS,10.5,36.8,183.2,121,2.6,1249,5.7,2.8,1547,Work
+U00606,20,Male,Jaipur,Oppo,iOS,6.9,14.2,108.3,56,3.9,160,4.3,3.6,997,Work
+U00607,42,Female,Mumbai,Samsung,Android,6.1,33.1,192.7,26,5.4,1838,6.9,0,702,Entertainment
+U00608,30,Female,Mumbai,Vivo,iOS,7.6,49.9,156.2,12,1.7,9530,1.8,1.2,948,Education
+U00609,56,Other,Mumbai,Xiaomi,Android,9.2,9.6,36.7,93,3.7,8156,4.8,2,1769,Social Media
+U00610,32,Other,Delhi,Oppo,Android,1.2,32.2,258.3,167,3.7,9960,7.9,2.9,1811,Education
+U00611,24,Female,Ahmedabad,Samsung,Android,9.4,22,103.5,120,5,1219,7.9,1.1,766,Education
+U00612,57,Male,Delhi,Apple,Android,3.3,47.2,230.3,41,4.3,2225,0.6,3.4,901,Education
+U00613,23,Male,Hyderabad,Apple,iOS,9.3,34.5,46,106,1,6203,3.2,1.8,278,Entertainment
+U00614,27,Male,Delhi,Realme,iOS,1.6,22.5,244.2,195,1.1,1987,7.7,0.7,387,Education
+U00615,20,Female,Lucknow,Nokia,iOS,11.8,33.1,284.3,170,1.1,9996,6.5,1,727,Education
+U00616,43,Female,Jaipur,Apple,Android,5.5,24.3,75.9,183,2.5,7721,3.2,0.9,422,Social Media
+U00617,49,Other,Mumbai,Oppo,Android,11.8,31.4,134.5,27,2.6,3225,1.7,0.1,1192,Gaming
+U00618,22,Female,Chennai,Vivo,Android,10.1,12.9,207.6,64,4.7,6478,2.8,1.3,168,Social Media
+U00619,44,Male,Jaipur,OnePlus,iOS,10.4,7.9,215.1,168,3.1,129,7.3,2.1,1714,Gaming
+U00620,29,Female,Mumbai,Xiaomi,iOS,9.8,27.8,260.8,22,3.4,9228,5.7,0.8,780,Work
+U00621,54,Female,Bangalore,OnePlus,Android,8.8,16.1,133.4,166,2.1,8830,1.6,1.6,963,Entertainment
+U00622,24,Female,Jaipur,Apple,iOS,8.2,46.8,136.5,132,3.5,2106,4.3,3.4,700,Education
+U00623,15,Female,Bangalore,Oppo,iOS,1.3,31.2,75.4,198,3,4172,2.4,3.4,1780,Education
+U00624,47,Other,Kolkata,Oppo,iOS,2.5,27.6,121.8,64,3.2,1450,1.2,1.4,1625,Entertainment
+U00625,36,Female,Lucknow,Vivo,Android,1.1,22.8,65.5,166,2.1,6116,1.1,2.4,1024,Work
+U00626,20,Male,Ahmedabad,Xiaomi,Android,4.5,6.3,192.1,36,2.1,5180,3.1,3.7,240,Education
+U00627,29,Male,Hyderabad,Motorola,iOS,7.9,41.4,228.8,36,5.3,751,0.9,1.1,892,Work
+U00628,53,Male,Hyderabad,Nokia,Android,3.6,11.8,95.2,79,4.3,8643,4.5,1.1,300,Social Media
+U00629,30,Female,Delhi,Motorola,Android,2,26.9,290.3,38,4.5,9675,5.8,4.7,1356,Entertainment
+U00630,45,Other,Bangalore,Nokia,iOS,10.2,34.1,175,74,1.1,9930,4.5,0.5,1768,Entertainment
+U00631,44,Other,Ahmedabad,Google Pixel,Android,3.5,12,109.8,29,4.1,6645,3.6,0,139,Work
+U00632,39,Other,Hyderabad,Motorola,iOS,1.3,18.7,46.4,24,5.6,8067,5.7,4.7,1557,Gaming
+U00633,22,Other,Bangalore,Motorola,Android,1.3,45.9,182,20,0.7,6391,4.9,3.2,1235,Social Media
+U00634,25,Male,Kolkata,Apple,iOS,10.5,28.1,221.4,115,5.3,8160,4.6,4,716,Work
+U00635,46,Male,Delhi,Realme,iOS,9.1,33.2,247.2,102,5,3534,7.5,0.4,1773,Work
+U00636,16,Male,Kolkata,Realme,iOS,6.2,23.1,267.9,86,2.5,8078,3.9,0.7,1535,Social Media
+U00637,31,Female,Hyderabad,Xiaomi,Android,1.9,30.1,137.3,191,4.5,1335,6,4.7,213,Social Media
+U00638,26,Other,Lucknow,Apple,iOS,10.5,4.2,249,189,1.6,6107,1.3,1,953,Entertainment
+U00639,37,Other,Ahmedabad,Motorola,Android,8.5,35.2,236.9,140,2.9,7286,2.6,0.9,327,Work
+U00640,29,Female,Jaipur,Apple,iOS,11.6,8.5,295.4,118,0.7,3305,7.2,3.4,614,Gaming
+U00641,15,Other,Delhi,Oppo,Android,7.6,34.9,91.2,11,2.8,8061,6.6,3.5,156,Work
+U00642,57,Male,Kolkata,Realme,iOS,7.2,7.2,111,62,5.2,6233,3.2,4.2,202,Education
+U00643,18,Other,Delhi,Nokia,iOS,5,32,201.5,27,4.5,697,4.7,2.6,1786,Gaming
+U00644,36,Other,Jaipur,Oppo,Android,7.9,10.8,46.1,96,1.7,8147,6.4,1.2,876,Gaming
+U00645,43,Male,Lucknow,Vivo,Android,3.6,5.1,216.7,172,1.9,9361,6.3,3.2,1722,Social Media
+U00646,58,Other,Ahmedabad,Vivo,Android,2.3,9.2,223.6,199,3.4,2280,3.4,0.5,1094,Education
+U00647,28,Male,Kolkata,Motorola,Android,8.9,13.2,252.6,170,3.5,5280,5.8,4.5,344,Work
+U00648,24,Male,Ahmedabad,Samsung,iOS,4.2,12.7,296.7,125,2.9,9602,1.6,1.4,464,Education
+U00649,37,Other,Kolkata,Motorola,Android,5.8,14,140.9,91,6,9592,1.1,4.4,727,Education
+U00650,56,Female,Chennai,Google Pixel,Android,1.2,37.5,163.1,38,4.1,2778,5.1,1.8,817,Social Media
+U00651,29,Other,Pune,Oppo,iOS,3.5,9.3,192.4,24,4.4,2955,2.1,0.7,143,Work
+U00652,57,Other,Mumbai,Oppo,Android,7.3,22.9,175,87,2.9,1443,4.3,2,1547,Social Media
+U00653,44,Male,Delhi,Google Pixel,Android,4.7,17.6,84.9,78,4.1,2259,3,3.3,1629,Gaming
+U00654,52,Female,Lucknow,Nokia,Android,5.6,31.8,201.2,147,1.2,2916,7.4,2.8,1083,Work
+U00655,20,Male,Ahmedabad,Motorola,Android,6.3,10.4,37.8,93,0.8,7597,1.9,3,834,Entertainment
+U00656,50,Female,Mumbai,Google Pixel,iOS,9.4,47.4,35.1,113,2.9,3897,4,4.3,1389,Social Media
+U00657,46,Female,Hyderabad,Motorola,Android,5.2,22.6,38.7,94,4.7,829,5.8,0.6,473,Social Media
+U00658,56,Other,Bangalore,Samsung,Android,6.8,3.1,241.4,21,5.8,1014,7.6,4.9,1439,Education
+U00659,39,Male,Jaipur,Vivo,Android,4,3.9,131.7,150,3.9,7356,3.9,4.5,1490,Education
+U00660,37,Female,Mumbai,Oppo,iOS,8,17.1,33.4,166,5.7,3935,3.9,1.4,492,Work
+U00661,31,Female,Jaipur,Oppo,Android,1.1,22.8,102.4,18,4.6,7450,6.8,1.9,1734,Gaming
+U00662,45,Male,Pune,Oppo,Android,4.9,33.6,185.6,89,3.3,2000,4.4,4.6,983,Education
+U00663,29,Male,Ahmedabad,Nokia,Android,3.2,49,55.4,27,4.5,196,7.3,2.8,1125,Education
+U00664,30,Female,Pune,Realme,Android,4.9,20.6,250.5,38,2.9,1805,0.8,4.3,1870,Education
+U00665,37,Male,Ahmedabad,Vivo,iOS,3.3,40.2,107,64,4.2,5755,3.1,4.3,1231,Gaming
+U00666,53,Male,Chennai,Apple,iOS,4.7,40.6,217.1,57,3,5738,2.9,4.6,1653,Entertainment
+U00667,53,Female,Kolkata,Samsung,iOS,9.3,24.6,7.1,105,5.3,7792,7,3.6,204,Gaming
+U00668,30,Female,Chennai,Vivo,Android,4.4,13.4,137.2,85,5.5,3018,2.2,4.8,1628,Gaming
+U00669,30,Male,Mumbai,OnePlus,iOS,7.7,13.2,250,134,1.6,7801,7.2,2.8,1432,Social Media
+U00670,56,Male,Mumbai,Nokia,Android,3.9,45.3,298.4,184,1.2,7588,5.4,4.6,422,Work
+U00671,23,Female,Chennai,Oppo,Android,6,6.6,275.8,96,5.4,2557,2,3.4,665,Education
+U00672,52,Male,Bangalore,Google Pixel,iOS,9.1,47.2,259.5,78,3.8,1019,5.1,4.3,1511,Gaming
+U00673,44,Other,Jaipur,Vivo,Android,11.7,43.7,101.3,135,5.5,250,6.1,1.2,838,Work
+U00674,18,Other,Jaipur,Vivo,iOS,3.3,20.8,180.7,88,3.3,4480,7.3,3.2,1887,Entertainment
+U00675,31,Other,Mumbai,Apple,iOS,11.1,10.3,123.2,87,3.3,597,3.8,0.2,1388,Work
+U00676,20,Other,Jaipur,Motorola,iOS,5.4,46.9,261.4,43,4.9,894,4.2,4.1,299,Gaming
+U00677,31,Female,Kolkata,Motorola,iOS,5.3,10.3,98.6,74,2.7,5356,7.7,0.7,1115,Gaming
+U00678,36,Other,Bangalore,Oppo,iOS,9.5,11.5,71.6,161,1.5,9992,6.5,2.3,532,Work
+U00679,50,Female,Bangalore,Samsung,Android,11.7,32.1,7.5,162,5.2,1642,5.6,2.6,783,Entertainment
+U00680,38,Female,Mumbai,Realme,iOS,9.1,20.2,162.1,65,1.7,4614,5.9,4.3,670,Gaming
+U00681,36,Male,Chennai,Xiaomi,iOS,7.7,16,79.7,38,4,8584,5.3,0,685,Work
+U00682,46,Other,Lucknow,Realme,Android,9.2,30.3,67.2,100,5.9,8131,4.4,1.2,118,Gaming
+U00683,22,Female,Bangalore,Xiaomi,Android,4.2,27.9,94,133,5.5,8690,7.7,3.8,1690,Education
+U00684,15,Female,Pune,Motorola,Android,4.2,21,239,39,1.4,1121,2.3,2.7,1247,Social Media
+U00685,59,Other,Mumbai,Samsung,Android,3.1,22.6,242.2,26,4.6,5715,6.9,1.7,1007,Work
+U00686,40,Male,Chennai,Samsung,Android,7.2,42.8,254.1,167,5.5,198,2.6,3,129,Social Media
+U00687,49,Other,Chennai,Motorola,iOS,10.2,20.6,126.6,92,2.6,8250,3,3.9,1620,Social Media
+U00688,55,Male,Lucknow,Motorola,Android,6,9.9,107.5,179,1.4,519,7.2,4.2,209,Entertainment
+U00689,24,Male,Kolkata,Xiaomi,iOS,12,48.8,55.5,183,3,6811,1.7,1.1,648,Entertainment
+U00690,60,Female,Jaipur,Motorola,Android,7,2,24.5,39,4.9,1694,7.7,1.7,513,Gaming
+U00691,40,Male,Bangalore,Oppo,iOS,11.8,40.6,49.7,36,2.4,2918,1.3,2.6,533,Entertainment
+U00692,36,Male,Jaipur,Apple,iOS,9.3,2.9,37.6,163,1.2,5610,5.5,0.7,594,Gaming
+U00693,37,Male,Lucknow,Motorola,Android,8.5,34.8,244.4,56,4.6,7026,6.6,1.7,654,Social Media
+U00694,37,Male,Hyderabad,Vivo,iOS,6.2,18.6,97.6,72,4.3,9819,1.8,4.4,1462,Work
+U00695,48,Female,Ahmedabad,Motorola,Android,2.3,22.1,135.8,145,4.5,9126,3.5,0,677,Entertainment
+U00696,22,Female,Pune,Samsung,Android,3.7,3.1,247.3,170,5.1,6774,2.5,0.2,473,Social Media
+U00697,40,Male,Delhi,Samsung,Android,5,42.2,165.5,121,2.4,3959,1.1,2.1,1312,Work
+U00698,53,Female,Mumbai,Xiaomi,Android,8.5,33.4,136.2,71,3.2,1187,4.9,1.8,1303,Gaming
+U00699,18,Other,Bangalore,Motorola,iOS,3.7,17.4,51.3,37,3,7110,5.7,3.1,905,Gaming
+U00700,24,Other,Kolkata,Motorola,Android,1.4,14.6,188,185,3.1,1675,7.5,0.5,573,Entertainment
+U00701,18,Female,Pune,Realme,iOS,11.2,49.4,89.9,46,4.8,6509,5.8,2.1,556,Social Media
+U00702,20,Female,Bangalore,Nokia,Android,9.7,4.8,6.1,42,5.7,5831,6.3,1.9,1592,Education
+U00703,16,Male,Hyderabad,Motorola,Android,10.4,16,190.3,11,3.2,9174,0.5,4,596,Entertainment
+U00704,43,Other,Hyderabad,Apple,iOS,11.7,2.5,13,39,2.2,4577,3.9,1,746,Social Media
+U00705,23,Other,Bangalore,Google Pixel,iOS,11.2,22.2,144.6,174,5.5,7485,5.7,0.3,680,Social Media
+U00706,49,Female,Kolkata,Motorola,Android,7.8,12.6,60.6,37,5.8,699,1,0.9,794,Work
+U00707,16,Other,Hyderabad,OnePlus,iOS,7.2,43.2,255.1,183,4.9,9627,5.5,2.6,139,Gaming
+U00708,41,Female,Jaipur,OnePlus,Android,9.6,15.9,110.4,153,1.9,8623,2.1,3,1370,Entertainment
+U00709,24,Male,Pune,Xiaomi,iOS,9,46.3,256.5,62,2.2,3381,1.4,4.1,1478,Social Media
+U00710,57,Male,Kolkata,Xiaomi,iOS,5,34.5,67.5,187,2.2,2882,1.3,0.9,568,Education
+U00711,39,Female,Chennai,Nokia,Android,9.7,42.4,58.7,95,5.7,3086,4.5,1.2,1393,Entertainment
+U00712,57,Other,Bangalore,Motorola,Android,3.3,25.1,91.3,109,1.4,5664,5.2,2.7,967,Education
+U00713,48,Male,Kolkata,Apple,Android,4.4,12.3,276.9,124,2,7493,5.9,1.6,1963,Work
+U00714,42,Female,Lucknow,Motorola,iOS,8.2,3.3,142.1,183,1.4,9502,2.6,1.1,1366,Entertainment
+U00715,19,Male,Bangalore,OnePlus,iOS,3.9,22.8,38.2,172,1,1176,2.7,2.2,1922,Gaming
+U00716,16,Female,Pune,Xiaomi,Android,10.4,12.1,23.8,168,0.9,6999,7.9,0.9,306,Entertainment
+U00717,47,Female,Hyderabad,Apple,iOS,1.1,8.5,87.3,176,2.4,4713,5,2.6,1527,Entertainment
+U00718,37,Male,Lucknow,Motorola,iOS,1.8,33.3,100.1,122,4.5,3505,1.3,2.2,1305,Gaming
+U00719,32,Other,Mumbai,Google Pixel,Android,8.9,17.4,207.6,118,1.2,433,6.9,3.7,1600,Work
+U00720,35,Other,Mumbai,Apple,iOS,8.8,20.9,6,198,2.8,1447,4.4,1.4,1186,Social Media
+U00721,18,Other,Chennai,OnePlus,Android,4.7,26.8,165.5,166,3.2,4926,4.9,0.7,1345,Work
+U00722,58,Female,Lucknow,Xiaomi,iOS,5.8,41.5,110.4,185,5.2,484,6.1,4.6,203,Entertainment
+U00723,41,Female,Delhi,Nokia,Android,6,8.7,115.6,103,5.8,6298,2.3,4.5,1792,Social Media
+U00724,23,Other,Kolkata,Motorola,Android,7.2,15.4,294,127,2.9,2145,5.3,1,113,Education
+U00725,28,Female,Chennai,Nokia,iOS,2.5,17.5,21.1,140,1.7,5386,5.5,3.7,192,Education
+U00726,39,Female,Kolkata,Realme,iOS,7.1,3.6,185.3,104,3.4,204,2.1,4.3,999,Work
+U00727,45,Male,Bangalore,Realme,iOS,7.4,24.8,205.1,169,4.7,2435,3.9,1.2,1662,Work
+U00728,43,Female,Ahmedabad,Oppo,iOS,3.4,48.6,14.8,93,1,1318,6.8,2.9,854,Social Media
+U00729,37,Female,Jaipur,Realme,iOS,10,34.5,34.6,38,1.3,9990,6.5,2.2,267,Education
+U00730,18,Other,Lucknow,OnePlus,Android,8.8,13.1,113.9,53,5.4,4433,1.5,2.1,1786,Work
+U00731,52,Male,Kolkata,Samsung,iOS,5.2,36.4,245.1,143,0.6,2986,7.1,3.8,1639,Social Media
+U00732,17,Other,Hyderabad,Apple,Android,7.6,8.2,220.7,13,1.7,5716,5.5,0.2,864,Social Media
+U00733,52,Male,Bangalore,Samsung,iOS,2.8,35.1,146.5,125,5.3,2633,0.9,2.2,1854,Entertainment
+U00734,16,Female,Jaipur,Realme,iOS,2.5,1.8,140.4,17,4.1,5482,5,2.1,1900,Entertainment
+U00735,35,Female,Jaipur,Samsung,Android,12,3.1,48.3,14,2.3,5294,3.7,2.3,1284,Social Media
+U00736,48,Other,Jaipur,Google Pixel,iOS,5,16.8,187.2,23,1,5720,6,2,1310,Entertainment
+U00737,56,Other,Chennai,Apple,Android,4.2,24.8,69.6,36,0.7,1769,7.2,1.9,1202,Social Media
+U00738,16,Male,Pune,Realme,iOS,2.3,27.1,240,147,6,8277,7.7,1.5,933,Social Media
+U00739,43,Male,Chennai,Realme,iOS,10.1,14.3,31.6,119,5.8,7753,6.4,2.9,608,Education
+U00740,34,Male,Lucknow,Apple,iOS,2.4,29.8,204.2,102,5.6,707,4.4,0.4,1624,Entertainment
+U00741,17,Female,Kolkata,Xiaomi,iOS,9.3,41.9,185.3,26,5.5,2882,6,4.9,482,Social Media
+U00742,40,Female,Jaipur,Xiaomi,iOS,6,34,107.3,138,1.4,3634,1.8,2.2,768,Work
+U00743,23,Other,Hyderabad,Samsung,iOS,5.8,34.9,254,24,4.5,4759,7.4,1.1,925,Work
+U00744,22,Female,Bangalore,Motorola,iOS,6.5,45.1,173.9,32,4.6,6494,6.7,1.5,584,Work
+U00745,58,Other,Bangalore,Apple,iOS,8.8,31.1,204.1,95,4.3,2107,3.6,2.6,416,Social Media
+U00746,47,Female,Lucknow,Motorola,Android,8.2,3.8,282.8,95,3.6,9068,7.2,2.6,1969,Work
+U00747,35,Other,Kolkata,Motorola,Android,12,10.9,33,140,4.6,3785,3.6,1.6,1862,Gaming
+U00748,60,Female,Kolkata,Google Pixel,iOS,11.1,23.4,152.2,59,5,2864,0.8,1.4,1388,Social Media
+U00749,16,Female,Pune,Vivo,Android,9.5,22.8,294.9,89,4.8,3120,3.6,1.9,1731,Entertainment
+U00750,51,Female,Ahmedabad,OnePlus,Android,8.3,36.6,262,31,3.1,5221,6.9,1.7,1618,Gaming
+U00751,46,Male,Lucknow,Google Pixel,iOS,7.3,45.4,211,169,4.6,7502,2.5,3.9,957,Social Media
+U00752,43,Other,Jaipur,OnePlus,Android,9.8,20,281.4,190,0.5,3707,2.1,0.3,181,Work
+U00753,21,Male,Bangalore,Samsung,Android,8,7,274.7,143,3.7,4329,2.9,4,566,Gaming
+U00754,41,Male,Kolkata,Motorola,Android,5.4,38.4,58.3,149,2.8,2223,6.4,1.3,773,Entertainment
+U00755,30,Female,Lucknow,Samsung,iOS,5.1,44.4,232.4,108,4.4,6894,2.8,1.8,1409,Gaming
+U00756,57,Other,Ahmedabad,Google Pixel,iOS,7.6,49.9,126.1,186,3.9,5733,1.8,0.5,1654,Entertainment
+U00757,35,Male,Jaipur,Xiaomi,Android,8.1,7.7,144.4,133,5.2,624,3.2,2.7,1707,Gaming
+U00758,52,Other,Pune,Xiaomi,Android,9.9,14.1,195.4,166,5,806,6.1,1.9,987,Social Media
+U00759,46,Male,Bangalore,Oppo,Android,8,40,186.3,124,0.8,1297,7.6,2.9,540,Gaming
+U00760,41,Female,Mumbai,Apple,Android,1.8,15.8,129,91,3.6,2337,0.8,1,845,Work
+U00761,21,Female,Hyderabad,Nokia,Android,2.8,44.7,180.1,22,5.8,9957,4.7,0.1,1923,Work
+U00762,59,Male,Lucknow,Oppo,Android,6.3,34.7,272.9,151,1,3119,1.9,2.3,258,Gaming
+U00763,21,Other,Pune,Google Pixel,Android,10,10.7,296.9,34,5.5,9470,1.5,1.4,368,Work
+U00764,53,Female,Lucknow,Google Pixel,iOS,10.7,32.8,149.2,75,3.5,6509,4.3,3.6,1672,Entertainment
+U00765,24,Other,Ahmedabad,Nokia,iOS,3.5,16.2,211.8,167,4.5,653,1.3,1.9,1973,Education
+U00766,22,Male,Hyderabad,Xiaomi,iOS,1.3,20.3,34.8,51,5.2,2073,2.6,3.2,1127,Work
+U00767,46,Other,Jaipur,Samsung,Android,12,8.9,44.2,135,1.4,8085,5.9,4.5,785,Social Media
+U00768,51,Other,Lucknow,Motorola,iOS,4.6,29.8,210.8,110,5,9046,1.2,0.4,264,Gaming
+U00769,43,Other,Hyderabad,Realme,Android,1.9,38.2,242.3,53,5.7,8370,5.8,3.2,1174,Education
+U00770,15,Other,Mumbai,Apple,iOS,6.6,38.2,54.1,129,1.2,9288,7,4.3,1200,Entertainment
+U00771,31,Male,Pune,Vivo,Android,4.6,11.8,127.9,120,2.5,5773,7.5,1.6,629,Education
+U00772,42,Male,Pune,Xiaomi,Android,10.8,3.1,89,123,3.9,677,6.7,3.2,397,Entertainment
+U00773,28,Other,Mumbai,Apple,iOS,6.6,35.6,138.9,72,5.8,5473,3.4,3.3,420,Education
+U00774,39,Other,Hyderabad,Realme,Android,11.7,46.1,175.7,160,2.2,5950,7,2.8,393,Entertainment
+U00775,54,Male,Kolkata,Oppo,iOS,9.9,2,135.7,91,0.9,1187,3.5,3.3,934,Work
+U00776,38,Female,Bangalore,Oppo,iOS,4.5,15.7,82.1,90,4.9,6391,5.8,3.4,1503,Social Media
+U00777,23,Male,Mumbai,Oppo,iOS,11.5,48.5,144.8,28,4.2,3309,7.2,0,666,Social Media
+U00778,50,Female,Kolkata,Realme,Android,7.5,13.3,103.7,45,1.8,3454,2.7,0.6,1890,Education
+U00779,30,Female,Pune,Nokia,Android,9.3,38.8,49.7,171,5.7,5885,5.6,3.6,448,Work
+U00780,30,Other,Jaipur,Realme,iOS,11.5,31.8,79,95,3.4,5524,5,2.5,1870,Gaming
+U00781,55,Female,Jaipur,Motorola,iOS,5.9,21.2,180.5,98,2,7191,3.5,4.4,1306,Work
+U00782,31,Male,Kolkata,Nokia,Android,5.5,10.4,285.3,160,0.6,5656,7.9,1.3,1140,Education
+U00783,53,Male,Chennai,Vivo,iOS,5.8,36.6,246.5,189,4.7,8596,5.7,0.3,545,Work
+U00784,42,Female,Pune,Google Pixel,iOS,10,47.9,264.7,69,3.2,5503,3.8,1.1,980,Work
+U00785,34,Other,Pune,Realme,Android,2.4,9.7,103.2,119,5.1,6591,2.7,1.8,1782,Work
+U00786,44,Female,Pune,Motorola,iOS,2.1,27.6,289,65,2.9,7310,3.2,4.1,1181,Social Media
+U00787,52,Male,Delhi,Samsung,Android,10.1,41.6,63,108,3.5,426,4.9,3.9,255,Entertainment
+U00788,19,Female,Kolkata,Nokia,iOS,4,11.1,11.1,50,5.1,9183,5,3.8,1306,Entertainment
+U00789,32,Male,Bangalore,Xiaomi,iOS,5.6,7.2,176.8,62,5.1,5912,6.6,4.5,1307,Entertainment
+U00790,47,Female,Jaipur,OnePlus,iOS,10.4,17.3,158,132,1.4,6952,3.8,1.8,1111,Entertainment
+U00791,23,Female,Hyderabad,Nokia,iOS,9,37.7,107.8,117,2.2,5685,2.3,1.6,1301,Gaming
+U00792,31,Male,Chennai,OnePlus,Android,8.5,6,227.8,150,4.4,8243,5.4,1.2,709,Entertainment
+U00793,53,Female,Hyderabad,Oppo,Android,11.9,25.2,225,133,3.5,7042,0.6,0.9,466,Social Media
+U00794,19,Other,Jaipur,Nokia,Android,10.6,19,296.4,61,4.9,7981,3.7,3.9,1295,Social Media
+U00795,53,Other,Chennai,Google Pixel,iOS,11.3,8.9,71.7,33,1.6,1652,7.9,4.3,888,Work
+U00796,56,Other,Bangalore,Oppo,Android,9.6,32.2,24.8,19,1,4659,7.1,0.1,916,Work
+U00797,22,Other,Chennai,Nokia,Android,1.1,26.5,146.3,183,3.5,7866,2.5,4.2,1656,Entertainment
+U00798,22,Male,Mumbai,Xiaomi,Android,6,9.8,294.9,100,0.8,7561,5.4,3.4,111,Social Media
+U00799,46,Male,Lucknow,Google Pixel,iOS,11.9,37.3,285.9,122,1.5,6613,2,0.9,313,Work
+U00800,53,Male,Jaipur,Oppo,iOS,2.6,34.8,102.2,161,3.4,673,4,3.2,912,Social Media
+U00801,52,Male,Delhi,Xiaomi,iOS,8,49.1,81.3,181,5.5,2021,2.7,1.4,281,Gaming
+U00802,47,Male,Kolkata,Xiaomi,Android,2,21.4,7.8,76,3.8,6246,5.6,3,1637,Education
+U00803,59,Other,Lucknow,Xiaomi,iOS,8.7,16.4,8,98,2.1,9491,3.1,4.3,618,Work
+U00804,51,Male,Mumbai,OnePlus,iOS,4.8,16.9,109.7,58,2.5,5165,6,4.8,1821,Work
+U00805,59,Other,Kolkata,Oppo,Android,4.9,47.6,19.4,149,4.2,6764,1.5,4.8,1542,Social Media
+U00806,26,Female,Mumbai,OnePlus,Android,11.6,28,227,87,5.6,1895,1.9,2.8,600,Gaming
+U00807,22,Other,Delhi,Google Pixel,Android,2,35.6,69.6,39,3.6,9796,7.1,4.7,864,Gaming
+U00808,50,Female,Jaipur,Apple,iOS,10.2,11.4,27.4,87,1.1,5261,2.5,0,261,Education
+U00809,48,Male,Ahmedabad,Vivo,Android,10.4,39.1,157.1,88,0.9,4065,3.1,3.7,1869,Entertainment
+U00810,54,Female,Hyderabad,Google Pixel,Android,7.9,34.5,11.7,27,3.9,5175,7.4,3.7,293,Entertainment
+U00811,47,Male,Hyderabad,Realme,iOS,7.7,43.5,52.7,98,5.3,3900,3.2,1.1,1167,Gaming
+U00812,21,Other,Kolkata,Vivo,Android,7.8,27.1,140.2,135,2,7330,3.6,4.9,798,Gaming
+U00813,46,Female,Jaipur,OnePlus,iOS,6,28.4,137.2,11,5,2150,1,4.4,975,Entertainment
+U00814,54,Other,Hyderabad,Oppo,iOS,8.7,3,13.5,34,5.4,8115,3,4,1341,Social Media
+U00815,35,Female,Jaipur,Apple,Android,8.9,4.3,65.1,126,0.8,3106,5.7,4.6,431,Entertainment
+U00816,60,Other,Ahmedabad,Nokia,Android,1.3,19.6,156.5,87,5.3,8958,3.2,1.1,628,Work
+U00817,22,Female,Bangalore,Realme,Android,6.6,48.1,235.8,57,4.5,4542,4.2,1.5,1204,Education
+U00818,23,Other,Chennai,Apple,iOS,9.8,7.6,223.2,165,1.4,783,4.9,4.8,1171,Social Media
+U00819,36,Male,Kolkata,Apple,iOS,1.9,11,113.7,180,2.9,4736,0.5,1.5,755,Education
+U00820,57,Female,Jaipur,Xiaomi,iOS,2.8,39.2,81.9,83,1.2,4579,6.9,0.3,513,Entertainment
+U00821,51,Male,Hyderabad,Apple,iOS,1,17.9,10.4,30,2.5,7470,5.4,0.2,1261,Social Media
+U00822,24,Other,Ahmedabad,Oppo,Android,5.3,34.2,72.4,147,3.2,3886,3.8,0.3,1365,Entertainment
+U00823,47,Male,Jaipur,Samsung,Android,2,9.7,48.2,68,4,3500,7.7,0.9,1335,Education
+U00824,24,Other,Bangalore,Vivo,Android,1.4,1.3,158.4,31,2.9,9438,6.1,1.3,401,Work
+U00825,30,Female,Jaipur,Xiaomi,iOS,6.1,25.8,162.8,52,5.7,5946,3.5,3,1642,Entertainment
+U00826,41,Female,Kolkata,Xiaomi,Android,5.4,10.8,281.7,81,2.1,5542,7.4,1,571,Entertainment
+U00827,37,Male,Ahmedabad,Nokia,Android,10.3,13.2,156,136,4.9,3125,3.5,2.9,1470,Work
+U00828,22,Female,Mumbai,Realme,iOS,7,10.2,36.4,43,1.3,9364,3.8,0.1,143,Gaming
+U00829,50,Other,Lucknow,Xiaomi,iOS,4.1,35,252.4,178,4.6,1257,3.5,1.7,1457,Entertainment
+U00830,21,Female,Hyderabad,Xiaomi,Android,11.4,46.3,94.7,173,4.4,6690,3.8,4.3,1413,Work
+U00831,51,Male,Delhi,Oppo,iOS,3.9,28.1,159.7,20,4.2,4903,1.9,4.9,852,Entertainment
+U00832,23,Female,Kolkata,Xiaomi,iOS,5.2,44.1,132.3,149,1,3086,2.7,3.5,150,Entertainment
+U00833,42,Other,Pune,Realme,iOS,3,48.2,267.1,67,2.1,2495,2.5,0.8,922,Education
+U00834,24,Other,Pune,Vivo,Android,11.3,17,200.8,70,2.7,9925,2.3,4.7,473,Entertainment
+U00835,38,Male,Hyderabad,Realme,Android,7.2,45.8,297.5,11,0.8,6883,0.8,4.7,802,Entertainment
+U00836,44,Male,Chennai,Motorola,iOS,11.3,47.5,223.6,176,5.6,290,1.4,0.2,1599,Work
+U00837,60,Other,Chennai,OnePlus,iOS,2.3,6,100.7,51,2.6,9237,7.1,4.5,1795,Gaming
+U00838,35,Male,Bangalore,Nokia,Android,10.8,48.9,266.7,175,4.6,745,5.7,0.7,376,Education
+U00839,57,Female,Bangalore,Google Pixel,Android,5.6,30.7,147.3,173,5.3,6475,4.2,1.7,959,Social Media
+U00840,59,Other,Jaipur,Apple,Android,2.9,44.3,56.1,160,5.3,5196,2.8,3.2,1402,Gaming
+U00841,53,Other,Ahmedabad,Vivo,Android,2.3,47.3,147.3,129,1.3,1606,7.7,0.7,1546,Gaming
+U00842,21,Female,Delhi,Motorola,Android,7.5,21.1,179.4,66,2.2,754,2.9,1.7,195,Work
+U00843,53,Female,Kolkata,Realme,iOS,10.5,18.1,29.3,115,2.5,377,7.5,1.6,119,Social Media
+U00844,35,Male,Delhi,Xiaomi,Android,10.2,49.6,252.7,80,1.8,853,4.1,3.6,1859,Work
+U00845,42,Female,Lucknow,Google Pixel,Android,3.5,49.7,169,85,4.9,806,1.4,2.9,131,Education
+U00846,59,Male,Pune,OnePlus,iOS,11.2,16.2,212.9,139,3,1777,3.3,3.5,1067,Work
+U00847,29,Male,Bangalore,Samsung,iOS,11.2,32.5,276.6,192,4.6,2444,1.8,0.3,1881,Education
+U00848,56,Female,Lucknow,Samsung,Android,10.7,42.6,282.7,20,1.8,8340,8,2.7,1866,Social Media
+U00849,16,Other,Delhi,Nokia,Android,1.1,8.3,174,68,5.8,5010,6.6,4.5,961,Social Media
+U00850,47,Other,Pune,Xiaomi,iOS,4.5,7.1,48,114,1.3,6084,2.8,1.3,462,Entertainment
+U00851,50,Female,Bangalore,OnePlus,Android,5,16.9,165.9,110,3.6,7681,6,3.1,1594,Work
+U00852,57,Other,Delhi,Samsung,Android,7.2,49.4,76.1,72,2.4,4774,4.7,1.3,1692,Gaming
+U00853,45,Male,Delhi,Apple,iOS,9.5,10.3,172.1,18,5.9,4508,4.7,4.6,103,Entertainment
+U00854,35,Female,Pune,Oppo,Android,3.4,35,95.1,70,1,343,4.1,0.1,570,Education
+U00855,48,Other,Mumbai,Google Pixel,Android,11.9,30.9,37.9,59,1.9,2484,5.7,1.3,1864,Entertainment
+U00856,36,Male,Pune,Samsung,Android,11.1,13.5,211.7,47,4.6,4996,5.6,3.1,1082,Gaming
+U00857,20,Male,Hyderabad,Google Pixel,iOS,8.1,35.4,8.7,199,1.4,4020,3.2,0,342,Social Media
+U00858,41,Male,Lucknow,Realme,iOS,4.6,12,295.1,165,4.3,3220,4.4,4.3,1655,Work
+U00859,42,Other,Ahmedabad,Samsung,iOS,3.8,31.3,259.4,139,2.3,4836,3.6,4.9,1364,Education
+U00860,59,Male,Jaipur,Nokia,iOS,4.2,27.8,100.6,129,4.9,6640,5.2,4,1008,Education
+U00861,27,Female,Jaipur,Oppo,iOS,10.7,17.2,31.7,47,5.5,2604,4.9,4.5,1454,Work
+U00862,22,Other,Ahmedabad,Realme,iOS,7.3,19.4,64.8,39,4.9,7700,1.1,3.6,596,Education
+U00863,46,Other,Ahmedabad,OnePlus,iOS,10.9,5.2,278.4,119,5.4,3902,1.2,2.9,436,Gaming
+U00864,32,Male,Kolkata,Vivo,Android,9,45,174.6,19,2.2,9057,7.4,2.9,914,Entertainment
+U00865,33,Other,Mumbai,Nokia,Android,11.3,10.7,178.1,142,4.1,1646,3.1,2.5,1514,Education
+U00866,53,Other,Pune,Samsung,iOS,9,28.8,158.7,163,3.1,2451,7.5,1.5,701,Education
+U00867,25,Female,Delhi,Realme,iOS,5,40.6,29.8,128,2.2,892,4.6,1.5,491,Social Media
+U00868,19,Other,Ahmedabad,Nokia,iOS,7.8,27.1,179.2,133,5.9,8399,1.9,1.4,627,Gaming
+U00869,46,Male,Jaipur,Realme,Android,5.1,40.5,198.7,93,0.9,2558,5.6,4.8,1279,Education
+U00870,41,Other,Bangalore,OnePlus,Android,9.2,10,170.1,130,0.8,9993,4.4,2.1,1118,Gaming
+U00871,18,Male,Delhi,Apple,Android,3.2,5.5,240.4,22,4.2,1646,7.6,2.3,487,Education
+U00872,58,Female,Hyderabad,OnePlus,iOS,10.5,26.2,224.3,102,4.7,7617,7.4,1.5,1108,Work
+U00873,38,Other,Hyderabad,Nokia,Android,2.4,23.3,173.1,117,1.4,5517,6,2.4,912,Social Media
+U00874,44,Female,Delhi,Oppo,Android,2.8,1.5,29.4,42,5.3,9490,1.9,0.9,967,Entertainment
+U00875,27,Female,Delhi,Nokia,Android,6.9,23.4,66.6,90,3.5,6766,2.2,1,1064,Social Media
+U00876,55,Male,Delhi,Vivo,iOS,7.2,5.1,294.5,192,2.5,4197,6.6,1.8,1144,Work
+U00877,59,Male,Lucknow,Apple,iOS,6.5,21.6,218.5,119,5.5,8732,0.7,3.9,1037,Education
+U00878,50,Female,Bangalore,Samsung,iOS,5.6,1.3,7.4,69,3,3100,4.6,1.9,1659,Education
+U00879,38,Female,Mumbai,Realme,iOS,10.4,12.7,119.5,112,5.8,6584,1.7,0.3,529,Entertainment
+U00880,39,Female,Delhi,Xiaomi,iOS,7.6,40.7,200.6,182,0.8,3639,6.1,3.3,1967,Gaming
+U00881,18,Other,Jaipur,Nokia,iOS,11.5,23,157.8,70,5.6,3885,2.2,3.4,1387,Work
+U00882,44,Male,Jaipur,Apple,Android,11.3,28.7,25.7,108,2.1,7890,7.1,2.4,677,Entertainment
+U00883,34,Male,Ahmedabad,Motorola,Android,1.8,29.4,281.2,142,5.6,858,3.1,4.2,514,Gaming
+U00884,43,Male,Kolkata,Motorola,Android,10,17.5,212.1,120,5.2,8462,5.9,2.2,463,Entertainment
+U00885,41,Male,Bangalore,Motorola,Android,6.4,46.2,211.3,33,5.9,5010,7.3,2.8,784,Education
+U00886,51,Other,Ahmedabad,Vivo,Android,8,29.4,58.2,12,2.7,9758,3.7,1.1,963,Gaming
+U00887,22,Male,Delhi,Apple,Android,3.1,33.8,12.3,13,3.9,5957,0.7,4.1,1956,Work
+U00888,43,Other,Mumbai,Oppo,iOS,9.8,39.7,193.1,15,1.5,7793,6.9,1.5,724,Entertainment
+U00889,41,Female,Lucknow,Xiaomi,iOS,7.2,7.8,147.4,64,2.4,2869,2.1,0,1822,Social Media
+U00890,15,Male,Pune,Motorola,Android,5.6,43.1,52,67,4.6,1446,0.9,3.9,1486,Education
+U00891,23,Other,Bangalore,Samsung,iOS,6.7,45.7,97.9,90,2.7,7070,1.1,4.1,1742,Work
+U00892,55,Female,Lucknow,Nokia,Android,5.9,42.4,187.6,16,5.4,4528,7.5,1.6,1943,Social Media
+U00893,28,Female,Delhi,Xiaomi,iOS,6.1,1.7,117.5,47,4.3,3759,5,4.9,970,Entertainment
+U00894,33,Male,Bangalore,Google Pixel,iOS,6.1,19.2,282.5,17,4.9,9280,5.9,3.4,1853,Entertainment
+U00895,57,Male,Hyderabad,Apple,Android,10.2,45.7,61.1,20,5.5,1824,3.7,0.1,1993,Work
+U00896,34,Female,Delhi,Apple,Android,1.8,42,169.3,86,0.9,2364,4.6,1.4,841,Education
+U00897,60,Female,Ahmedabad,Motorola,iOS,11.1,48.6,192.2,136,4.1,7941,2.6,1.3,1770,Social Media
+U00898,20,Other,Lucknow,Google Pixel,Android,5.3,42.4,162,23,2.1,1622,5.8,2.4,799,Gaming
+U00899,50,Female,Jaipur,OnePlus,Android,1.8,32.1,62.2,108,1.3,2949,2.5,4.8,227,Entertainment
+U00900,33,Other,Chennai,Samsung,iOS,9.6,30.3,136.1,164,2.9,8365,4.4,4.6,1904,Gaming
+U00901,17,Male,Jaipur,Motorola,Android,3.5,22.6,64.3,97,4.6,5033,3.7,3.8,1711,Social Media
+U00902,24,Other,Chennai,Samsung,Android,8.9,14.6,290.4,78,6,4309,4.4,3.4,1362,Work
+U00903,36,Female,Ahmedabad,Google Pixel,Android,5.1,47.9,276.8,166,3.1,2613,5.3,1.3,769,Entertainment
+U00904,49,Other,Jaipur,Google Pixel,iOS,4.3,15.2,272.9,142,2.4,9435,0.6,0.5,115,Education
+U00905,39,Male,Jaipur,Vivo,iOS,11.8,18.3,211.5,49,4.3,2293,6.3,4.1,110,Entertainment
+U00906,43,Male,Jaipur,Vivo,iOS,11.9,1.9,28,54,4.6,9860,6.6,4.9,1066,Work
+U00907,25,Female,Hyderabad,Samsung,iOS,5.2,14.6,278.2,167,1.3,2611,3.3,4.7,1888,Social Media
+U00908,32,Other,Bangalore,Apple,Android,11.4,41.6,20.2,200,4.2,6800,3.5,0.5,1240,Education
+U00909,19,Male,Jaipur,Samsung,iOS,9.7,43.5,122.1,200,5,662,4.4,3,755,Gaming
+U00910,21,Other,Delhi,Samsung,Android,3.9,13.5,10,102,1.8,103,5.6,1.6,1302,Gaming
+U00911,33,Other,Mumbai,Motorola,iOS,2.7,33.3,12,123,5.5,2840,3.3,2.1,572,Entertainment
+U00912,57,Male,Jaipur,Motorola,Android,6,47.3,95.5,24,2.5,7876,7.1,4.5,1547,Work
+U00913,20,Female,Bangalore,Google Pixel,iOS,7.9,5.1,203.6,168,2.2,100,6.4,1.8,179,Social Media
+U00914,45,Male,Ahmedabad,Apple,iOS,7.9,21.7,126.1,168,1.1,9505,2.9,4.2,1170,Social Media
+U00915,50,Other,Mumbai,Motorola,Android,7.2,1.7,8.8,144,4.7,9135,6.5,0.1,1002,Social Media
+U00916,39,Male,Delhi,Realme,Android,7,38.9,5.3,155,4,8092,4.5,3.5,609,Education
+U00917,46,Male,Ahmedabad,Samsung,Android,9.7,17.6,48.2,17,3.7,8327,3,0.5,1327,Work
+U00918,31,Other,Bangalore,Samsung,Android,4.8,29.8,210.8,55,4.7,5112,2.2,3.4,1156,Work
+U00919,17,Female,Mumbai,OnePlus,Android,4,49.6,65.9,101,3.2,5058,1.1,4.8,776,Entertainment
+U00920,26,Male,Bangalore,Realme,Android,10.9,8.9,122.8,131,3.8,532,2.7,0.1,1425,Entertainment
+U00921,37,Female,Kolkata,Motorola,Android,11.7,45.9,239.7,123,2.6,5853,3.8,1.6,1274,Work
+U00922,42,Female,Mumbai,Xiaomi,Android,6.6,26.4,273.9,176,2.4,8637,4.2,4.2,1251,Social Media
+U00923,58,Male,Kolkata,Samsung,iOS,8.6,18.7,23,115,1.4,7775,6,2.3,937,Work
+U00924,48,Other,Mumbai,Motorola,iOS,2.9,33.8,127.6,168,4.7,5825,1.4,1.3,981,Work
+U00925,57,Male,Chennai,Motorola,iOS,10.2,20,168.4,102,3.6,6350,2.7,4.3,1226,Gaming
+U00926,26,Male,Jaipur,Xiaomi,Android,10.4,22.2,181.5,62,1,5587,2.5,0.1,1984,Social Media
+U00927,40,Male,Lucknow,Realme,iOS,6.1,12.4,124.4,180,3.4,4594,7.2,2.2,340,Education
+U00928,20,Other,Jaipur,Xiaomi,Android,11.5,20.7,16.7,57,5.2,7179,6.4,1,1306,Work
+U00929,48,Male,Lucknow,Realme,iOS,5.7,38.9,169.9,58,2.3,1036,6.2,0.1,1798,Education
+U00930,37,Male,Hyderabad,Nokia,iOS,5.9,17.5,223.7,85,4,6624,4.1,0.4,589,Education
+U00931,25,Male,Bangalore,Realme,Android,3.2,16,65,26,1.3,9263,4.8,2.9,1845,Gaming
+U00932,37,Female,Bangalore,Nokia,Android,12,40.9,260.5,97,3.1,2469,3.5,3,1636,Education
+U00933,57,Male,Jaipur,Realme,Android,3.9,32.4,184.9,193,4.6,5938,1.2,3.5,1765,Social Media
+U00934,49,Other,Mumbai,Vivo,Android,3.2,9.1,38.2,70,3.6,4025,0.8,3.2,152,Entertainment
+U00935,55,Other,Mumbai,Samsung,iOS,12,3.4,209.7,190,4.3,706,4.9,1.1,987,Entertainment
+U00936,19,Other,Lucknow,Oppo,iOS,4.3,19.3,15.5,59,0.8,7340,7.9,3.1,1301,Social Media
+U00937,59,Other,Hyderabad,OnePlus,iOS,5.6,34.1,231.3,11,4.2,3297,7.8,4.4,936,Entertainment
+U00938,53,Male,Delhi,Apple,Android,3.1,4.5,243.2,122,3.3,4310,2.6,1.4,539,Education
+U00939,26,Female,Chennai,Samsung,iOS,9.4,35,162.1,146,0.7,2143,7.1,2.5,593,Gaming
+U00940,18,Male,Lucknow,Google Pixel,Android,5.3,48.4,109.2,91,3.9,9638,1.7,2.5,1830,Social Media
+U00941,48,Female,Bangalore,Apple,Android,2.1,30.4,270.6,163,1,4977,5.2,3.6,1610,Entertainment
+U00942,25,Female,Jaipur,Samsung,iOS,1.3,39.7,178.9,59,4.9,8044,7.1,1.1,1931,Work
+U00943,32,Other,Chennai,Realme,Android,5.4,37.7,260,43,3.2,8278,5.8,3.1,1242,Gaming
+U00944,48,Male,Lucknow,OnePlus,Android,10.5,18.7,47.4,10,2.6,8845,1.8,4,1397,Gaming
+U00945,29,Female,Delhi,Oppo,Android,1.7,29.2,151.9,179,4.4,7862,3.7,1.3,576,Social Media
+U00946,50,Female,Chennai,OnePlus,Android,2.4,46.1,75.9,46,5.1,6907,3.6,3.4,1800,Education
+U00947,52,Male,Chennai,Vivo,iOS,2.4,9.5,92.8,150,4.3,3663,4.5,1.1,1381,Gaming
+U00948,56,Female,Bangalore,Realme,iOS,3.6,5.1,76.4,94,4.1,2168,1.2,0.2,1155,Gaming
+U00949,29,Female,Jaipur,Realme,iOS,3.1,37.4,5,78,0.7,5613,7.7,3.9,112,Education
+U00950,37,Male,Chennai,Apple,Android,10.3,14.9,117.3,59,5,9876,5,1.8,1657,Social Media
+U00951,41,Female,Bangalore,Oppo,Android,11.2,33.9,133,72,2.7,4366,4.7,4.3,965,Education
+U00952,28,Other,Hyderabad,OnePlus,Android,10.2,23.2,6.4,128,5.3,3886,7.6,0.4,966,Work
+U00953,50,Other,Mumbai,Motorola,iOS,4.8,46,95,192,4.7,6180,5.8,2.4,233,Education
+U00954,23,Male,Chennai,Motorola,Android,6.4,13.1,28.2,126,0.5,4109,5.1,0.5,485,Entertainment
+U00955,41,Male,Hyderabad,Xiaomi,Android,10.5,17.4,90.8,60,3.5,8615,8,1.7,387,Gaming
+U00956,53,Female,Delhi,Oppo,Android,7.5,40.4,168.4,61,2.6,4249,0.8,2.2,683,Work
+U00957,31,Female,Kolkata,Google Pixel,iOS,1.6,40,257.5,199,1,8201,3.3,3.2,925,Education
+U00958,15,Other,Mumbai,Motorola,Android,4.2,17.3,286.7,198,4.3,9613,2.7,3,1989,Entertainment
+U00959,45,Female,Mumbai,Motorola,iOS,5,33.6,189.2,37,4.6,5455,1.9,4,1328,Entertainment
+U00960,31,Other,Mumbai,Oppo,Android,8.7,12.4,198.4,136,4.8,1321,6.8,4.4,1208,Social Media
+U00961,56,Other,Delhi,Samsung,Android,1.9,47,223.1,123,4.1,2743,6.4,1.8,1952,Education
+U00962,31,Female,Delhi,Nokia,iOS,9,14.2,195.7,105,3.8,843,2.7,3.1,520,Entertainment
+U00963,38,Male,Jaipur,Google Pixel,Android,10,42.6,187.6,22,5,9556,7.2,4.2,1508,Gaming
+U00964,39,Other,Ahmedabad,Xiaomi,iOS,2,16.6,114.3,169,0.5,2617,1,3.7,845,Gaming
+U00965,16,Female,Mumbai,Oppo,iOS,9.1,37.2,194.7,13,1.4,203,3.1,1.9,277,Work
+U00966,26,Other,Ahmedabad,Nokia,iOS,2.7,7.5,27,157,3.7,7433,2.7,3.4,691,Entertainment
+U00967,57,Female,Kolkata,Oppo,Android,7.7,22.2,118.8,132,0.5,612,7.7,0.4,1132,Gaming
+U00968,56,Male,Bangalore,Xiaomi,iOS,7.5,19.7,271.9,192,3.6,104,4.1,2.6,105,Gaming
+U00969,21,Other,Chennai,Google Pixel,iOS,5.8,30.1,160.2,183,5.2,4200,6.6,4.8,148,Work
+U00970,53,Other,Ahmedabad,Apple,Android,4.7,30.9,286.1,87,4.3,3619,4.9,3.7,1908,Education
+U00971,41,Female,Chennai,Xiaomi,iOS,5.4,41.4,134.6,22,1.9,8905,5.7,0.4,546,Entertainment
+U00972,25,Female,Ahmedabad,Nokia,Android,3.1,43.1,204.2,34,2.4,5758,3.2,1.8,1634,Social Media
+U00973,39,Female,Kolkata,Motorola,Android,1.6,36.1,132,74,3.2,7131,5.4,3.3,208,Gaming
+U00974,53,Female,Delhi,Google Pixel,iOS,7.6,13.6,97.7,165,1.3,4709,1.2,3,1541,Gaming
+U00975,44,Other,Delhi,Oppo,iOS,4.9,8.1,31.9,133,5.7,129,5.4,4.5,1813,Social Media
+U00976,33,Female,Ahmedabad,Vivo,iOS,11.9,40.9,213.7,115,6,8707,6.7,3.8,479,Education
+U00977,26,Female,Kolkata,Xiaomi,Android,9.2,26,268.3,186,0.7,9028,0.8,1,648,Work
+U00978,58,Male,Jaipur,Motorola,iOS,7.3,7.1,139.6,70,3.4,5904,4.9,0.6,1930,Work
+U00979,53,Other,Hyderabad,Realme,Android,11.3,6.3,272.6,84,2.1,7125,5.6,1.5,471,Education
+U00980,17,Female,Jaipur,Vivo,iOS,1.4,12.7,143.6,35,5.3,8130,3.1,4.9,133,Gaming
+U00981,60,Female,Pune,OnePlus,iOS,9.1,3.5,44,170,1.7,8897,3.4,0.2,1199,Social Media
+U00982,35,Male,Lucknow,OnePlus,Android,4.3,8.5,182.9,98,3.8,3693,7,1.6,517,Education
+U00983,34,Female,Lucknow,Nokia,Android,10.8,30.2,259.7,149,5.8,2961,2.7,4.2,858,Social Media
+U00984,16,Other,Delhi,Vivo,Android,8.8,17.4,107.5,164,4.2,3517,0.6,2.6,673,Work
+U00985,38,Female,Bangalore,Vivo,Android,11.3,42,58.7,48,3.9,4181,5.1,3,962,Work
+U00986,54,Female,Chennai,Motorola,Android,6.7,16.5,150.7,33,2,4394,7.5,2.3,604,Social Media
+U00987,58,Other,Mumbai,Realme,iOS,1.7,32.3,29.5,183,1.5,4538,4.9,4.6,1737,Work
+U00988,50,Female,Pune,Oppo,iOS,1.8,16.4,288.3,83,3.3,7587,4.6,0.5,1348,Entertainment
+U00989,54,Other,Jaipur,Realme,Android,1.8,29.7,88.9,51,4,8727,1.3,4.1,381,Social Media
+U00990,52,Other,Hyderabad,Xiaomi,iOS,6.6,47.2,275,19,1.5,420,6.8,3.4,1594,Work
+U00991,25,Other,Ahmedabad,Xiaomi,iOS,3.2,23.8,255.3,15,5.6,8416,7.5,1.9,497,Gaming
+U00992,39,Male,Hyderabad,Motorola,iOS,7.7,7.9,266,74,4.7,8067,4.8,4.5,152,Gaming
+U00993,23,Female,Ahmedabad,Samsung,iOS,3.9,49,91,139,1.7,5757,0.8,4.9,1620,Work
+U00994,29,Female,Lucknow,Realme,Android,3.7,41.7,277.1,91,5.4,4814,5.1,0.5,1690,Entertainment
+U00995,50,Female,Pune,OnePlus,iOS,11.5,4.7,137.9,77,5.4,1283,4.7,1.3,1467,Education
+U00996,50,Female,Bangalore,Motorola,iOS,2.9,20.9,187.1,167,1.3,3075,7.3,4.5,602,Education
+U00997,16,Other,Delhi,Oppo,Android,6.6,47.3,70,131,5.6,231,3.5,0.3,180,Entertainment
+U00998,52,Other,Mumbai,Realme,iOS,8.6,38.8,192.2,182,3.6,4080,1.2,2.9,620,Entertainment
+U00999,46,Female,Chennai,Realme,Android,11.1,19.7,293,115,1.3,2857,5.9,1.6,945,Entertainment
+U01000,29,Other,Bangalore,Motorola,Android,3.8,44.1,178.4,60,0.6,2199,3.5,0.1,1010,Gaming
+U01001,54,Other,Lucknow,Realme,Android,5.3,44.3,157.1,26,5.4,5073,5.4,4,654,Entertainment
+U01002,22,Male,Bangalore,Apple,Android,3.1,11.4,13.9,131,4.1,3651,5.8,0.9,1530,Social Media
+U01003,29,Other,Delhi,Motorola,Android,6.4,35.1,185.3,189,1.8,8202,1.7,2.4,1434,Gaming
+U01004,55,Other,Lucknow,Motorola,iOS,1.5,35.1,119.5,28,2.2,7606,5.8,3.4,832,Work
+U01005,20,Female,Lucknow,Apple,Android,8.4,35.1,288.1,135,1.5,9479,3.4,2.7,1991,Education
+U01006,27,Female,Chennai,Xiaomi,Android,4.9,5.3,25.2,88,5.9,5452,7.2,2.4,980,Gaming
+U01007,22,Male,Pune,Apple,Android,10.4,1.3,31.2,26,1.7,4477,7.2,3,1243,Gaming
+U01008,25,Male,Hyderabad,Realme,iOS,11.1,27.7,202.5,64,4.7,6823,2.7,1,1523,Education
+U01009,49,Other,Jaipur,Samsung,iOS,8.3,49.2,284.6,17,3.6,1092,4.5,1,547,Work
+U01010,53,Other,Mumbai,Motorola,Android,5.2,38,197.9,171,5.9,3055,7.8,4.7,1231,Gaming
+U01011,31,Female,Pune,Apple,iOS,10.5,17.6,227.6,13,3.3,560,7.9,1.7,1063,Gaming
+U01012,50,Other,Lucknow,Xiaomi,iOS,2.8,4.5,127.4,101,4,202,3.5,3,106,Gaming
+U01013,38,Female,Hyderabad,Samsung,iOS,10.5,24.5,72.5,25,6,9280,1.4,2.7,1636,Entertainment
+U01014,16,Male,Chennai,Oppo,Android,5.9,1.1,16.5,175,2,1906,3.8,3.3,564,Education
+U01015,26,Other,Ahmedabad,OnePlus,iOS,3.4,19,159.8,140,5.6,4606,2.8,2.1,328,Social Media
+U01016,47,Female,Delhi,OnePlus,Android,11.4,4.7,50.4,133,2.3,8829,3.7,3.5,1704,Gaming
+U01017,53,Other,Kolkata,OnePlus,iOS,2,32.7,60.2,106,1.5,5020,3.7,0.7,1357,Education
+U01018,34,Male,Kolkata,Realme,iOS,8.9,42.7,199.9,66,1.1,238,1.5,3.4,318,Work
+U01019,24,Female,Pune,Motorola,Android,2.9,19.5,289.9,43,5.6,9437,6.5,3.5,656,Social Media
+U01020,26,Other,Delhi,Google Pixel,Android,9.5,35.6,113.4,184,0.7,2735,3.3,1.8,1083,Work
+U01021,43,Female,Ahmedabad,OnePlus,iOS,4.2,3.2,18.7,172,0.6,1183,7.5,2.5,1177,Social Media
+U01022,55,Female,Bangalore,Samsung,Android,6.7,25.8,66.3,148,5.7,3905,4.4,0.4,1555,Gaming
+U01023,52,Male,Jaipur,OnePlus,iOS,3.3,14.7,53.3,68,0.7,615,3.6,4.2,1995,Social Media
+U01024,45,Male,Jaipur,Motorola,iOS,6.7,40.3,136.5,89,6,4755,1.7,1.9,1535,Entertainment
+U01025,32,Female,Bangalore,Motorola,Android,8.7,35.4,136.1,67,1.1,6807,1.9,4.6,1729,Entertainment
+U01026,45,Other,Delhi,Xiaomi,Android,10.9,39.9,76.5,111,5.6,2587,7,3.1,497,Social Media
+U01027,27,Other,Ahmedabad,Samsung,iOS,2.3,8.2,85.4,129,2.4,3998,2.1,2.7,972,Education
+U01028,23,Male,Jaipur,Xiaomi,Android,6,12.3,77,48,3.6,1549,3.3,3.6,1132,Work
+U01029,43,Female,Ahmedabad,Vivo,Android,11.2,9.2,94.4,128,4.3,2989,4.5,2.2,641,Social Media
+U01030,15,Other,Mumbai,Oppo,iOS,5.5,10.5,144.7,88,2.8,3437,3.5,3,819,Social Media
+U01031,34,Female,Bangalore,Motorola,iOS,3.2,47.8,54.3,170,2.6,4869,7.6,1.5,341,Gaming
+U01032,22,Female,Lucknow,Realme,Android,10.7,24.1,66.3,51,4.5,2282,1.1,3.8,1318,Entertainment
+U01033,29,Male,Mumbai,Oppo,Android,10.3,44.6,112.7,34,3.3,8241,3.4,3.5,886,Entertainment
+U01034,24,Other,Jaipur,Samsung,iOS,10.6,32.9,140.7,106,3.8,446,7.5,1.3,638,Gaming
+U01035,50,Other,Bangalore,Vivo,Android,2.2,39.7,278.6,178,5.3,8732,6.1,3.7,1220,Entertainment
+U01036,49,Male,Jaipur,Xiaomi,Android,2.9,43.3,215.9,148,3.6,1017,5.2,4.3,161,Social Media
+U01037,56,Male,Delhi,OnePlus,Android,5,27,202.2,179,1.8,8288,3.3,3.1,927,Entertainment
+U01038,37,Other,Mumbai,Nokia,Android,6.9,18.7,114.9,10,3.8,9076,0.9,1.4,1997,Gaming
+U01039,44,Female,Lucknow,Nokia,Android,10.1,37.2,97.7,51,4.6,7651,7.8,4.6,1234,Gaming
+U01040,21,Other,Delhi,Nokia,Android,7.5,11.8,144.1,50,3.8,2185,7.5,4.6,130,Work
+U01041,47,Female,Jaipur,Oppo,Android,4.5,33.7,83.3,72,2,207,0.7,4,545,Work
+U01042,16,Male,Jaipur,Vivo,Android,3.8,34.7,16.7,96,4.9,7984,4.3,2.6,1774,Education
+U01043,45,Male,Jaipur,Samsung,Android,2.4,14.9,294.8,145,4.5,7011,0.7,4.6,316,Gaming
+U01044,22,Female,Kolkata,Samsung,iOS,7.1,30.1,278.1,10,3.7,2283,1.4,0.5,1705,Gaming
+U01045,46,Male,Lucknow,Xiaomi,iOS,8.2,43.1,145.9,22,4.7,2695,4.2,2.4,1249,Work
+U01046,20,Female,Jaipur,Xiaomi,iOS,9.7,32.1,285.7,147,4.7,1803,4.7,4.4,1965,Entertainment
+U01047,34,Female,Kolkata,OnePlus,iOS,3.5,27.6,297.6,68,5,9088,7.7,3.9,1562,Social Media
+U01048,29,Male,Ahmedabad,Realme,Android,7.9,3.8,99.5,73,4.4,7933,6,1.5,149,Education
+U01049,31,Male,Delhi,Google Pixel,iOS,9.8,15.1,156.7,92,3.7,2663,7.1,1.2,433,Gaming
+U01050,46,Male,Chennai,Xiaomi,Android,4.9,24.1,142.2,114,5.2,8315,4.2,3.8,1550,Education
+U01051,16,Female,Delhi,Samsung,Android,1.8,38.8,160.3,184,5.7,2164,4.3,3.9,1854,Education
+U01052,50,Female,Delhi,Vivo,iOS,6.6,33.1,255,25,1.2,831,4.7,2,884,Social Media
+U01053,24,Male,Pune,Vivo,Android,7.2,13.2,177.9,33,2.9,7961,5.7,0.8,495,Education
+U01054,33,Male,Chennai,Realme,iOS,5.7,23.7,17.3,193,5.6,6318,7,4.7,1235,Education
+U01055,46,Male,Pune,Samsung,iOS,8.1,5,294.3,85,1.4,5845,1.6,2.4,376,Education
+U01056,21,Male,Ahmedabad,Xiaomi,iOS,3.1,21.9,75.4,143,1.6,3161,6.1,4.5,1827,Education
+U01057,47,Female,Bangalore,Oppo,Android,1.5,2.3,260.2,17,5.4,7086,3.4,3.3,656,Work
+U01058,24,Female,Delhi,Vivo,iOS,8.3,14.2,18,32,5.4,3055,0.6,4.7,292,Social Media
+U01059,29,Other,Kolkata,Vivo,Android,4.1,9.7,279.2,147,2.3,6409,5.2,0.2,734,Social Media
+U01060,57,Male,Lucknow,Motorola,iOS,5,6.5,71.8,186,3.2,499,2.2,3.3,1440,Entertainment
+U01061,20,Other,Bangalore,OnePlus,Android,10.1,2.1,292.3,133,3.7,1539,1.9,1.8,1321,Education
+U01062,51,Female,Hyderabad,Vivo,iOS,8.8,36.2,36.3,19,3.1,4851,1.9,2.8,665,Entertainment
+U01063,59,Female,Bangalore,Google Pixel,iOS,3.4,9,155.1,35,3.7,1039,2.8,4.5,1105,Gaming
+U01064,48,Male,Kolkata,Nokia,Android,9.9,46.2,91.9,53,2.8,1151,3.7,1.1,573,Work
+U01065,43,Male,Mumbai,Apple,Android,6.6,31.8,244.4,117,1,9336,0.6,1.6,1674,Social Media
+U01066,45,Other,Kolkata,Apple,Android,9.2,42,26.3,68,1.6,117,1.9,0.3,372,Work
+U01067,58,Female,Ahmedabad,Apple,iOS,3.3,40.5,110.2,99,5,2297,2,2.5,1788,Social Media
+U01068,24,Other,Mumbai,Motorola,iOS,9.4,2.6,144.5,62,0.7,5681,7.9,2.7,1997,Entertainment
+U01069,52,Other,Chennai,Vivo,iOS,8.7,12.5,261.5,192,4.2,9874,2.4,4.5,1196,Entertainment
+U01070,57,Male,Pune,Realme,Android,6.9,28.5,48.7,45,2.2,213,4.6,4.6,514,Education
+U01071,23,Female,Delhi,Xiaomi,Android,7.1,13.5,118.7,99,1.4,4906,0.5,0.5,120,Work
+U01072,48,Female,Bangalore,Realme,iOS,9.4,33,283.9,99,0.7,4308,1.5,3.4,1058,Work
+U01073,36,Female,Jaipur,Motorola,Android,10.6,28.5,66.1,15,5,8774,6.7,0.8,1165,Work
+U01074,32,Male,Bangalore,Vivo,iOS,6.7,3.8,247.8,171,2,4305,2.2,3.7,1184,Social Media
+U01075,49,Male,Pune,Realme,Android,5.6,13.6,53.3,34,0.7,2782,3.6,5,168,Entertainment
+U01076,31,Male,Hyderabad,Nokia,Android,2.1,9.8,144.9,68,1.6,5312,1.8,2.6,1220,Work
+U01077,17,Other,Delhi,Nokia,iOS,4.3,46.1,227.1,187,3.4,2505,6.5,0.3,1547,Entertainment
+U01078,51,Male,Mumbai,Realme,Android,11.2,21.8,280.1,84,1.1,5537,3.7,4.1,1969,Entertainment
+U01079,37,Other,Chennai,Samsung,iOS,9.6,16.8,117.7,98,3.4,8824,3.1,3.2,1200,Social Media
+U01080,59,Male,Hyderabad,Samsung,iOS,10.2,6.1,165.1,193,3.3,6812,6.8,2.1,1299,Entertainment
+U01081,17,Female,Lucknow,Motorola,Android,8.7,33.2,200.2,62,4.4,1731,2.2,2.2,178,Work
+U01082,30,Female,Pune,Vivo,Android,8.4,41.2,55.4,34,0.8,9855,6.1,3.5,1423,Entertainment
+U01083,42,Female,Jaipur,Google Pixel,Android,7.4,6.5,120.6,171,0.7,4008,8,0.8,435,Work
+U01084,16,Male,Lucknow,Realme,iOS,11.1,20.4,113.2,47,4.4,4660,3.8,3.6,721,Gaming
+U01085,23,Female,Delhi,Xiaomi,Android,7.1,8.7,88.2,34,1.5,985,3.7,1.3,1949,Social Media
+U01086,46,Female,Delhi,Vivo,Android,9.8,21,156.5,144,3.2,2882,4.8,4.4,1119,Work
+U01087,15,Female,Hyderabad,Samsung,iOS,3.7,41.8,221.7,93,5.6,6212,7.2,2.9,1903,Entertainment
+U01088,30,Other,Chennai,Vivo,iOS,6.6,32.6,168.3,160,3.3,7805,7,4.8,1997,Education
+U01089,20,Female,Lucknow,Nokia,Android,3.8,13.1,218.8,156,1.1,7861,5,2.6,862,Social Media
+U01090,43,Female,Bangalore,Apple,iOS,2.4,35.2,250.3,73,3,8472,5.8,2.6,272,Work
+U01091,55,Male,Hyderabad,Realme,Android,10.3,28.4,31.2,101,5.8,8959,5,2.1,1567,Work
+U01092,41,Male,Pune,OnePlus,iOS,9.4,3.1,98.1,109,2.2,3590,5.1,0.6,667,Entertainment
+U01093,60,Male,Kolkata,Motorola,iOS,10.5,39.4,230.3,164,2.4,6663,4,2.3,1511,Social Media
+U01094,28,Other,Jaipur,Xiaomi,iOS,7.8,29.7,84.8,118,5.7,9845,3.4,0.8,1837,Entertainment
+U01095,59,Other,Delhi,Apple,Android,2.2,16.1,60.4,148,2.5,4998,4.6,4.7,628,Gaming
+U01096,45,Male,Hyderabad,Motorola,Android,1.8,29.6,131.4,193,3.7,4165,5.8,4.4,103,Gaming
+U01097,48,Female,Delhi,Oppo,iOS,4.8,30.6,226.7,195,4.8,5230,5.8,2.8,439,Gaming
+U01098,54,Male,Mumbai,Vivo,iOS,2.7,10.9,37.7,132,3.4,3765,3.2,1.8,329,Education
+U01099,22,Male,Chennai,Realme,iOS,7,49.3,222.2,18,2.5,3001,5.7,1.7,619,Social Media
+U01100,20,Male,Delhi,Apple,Android,6.7,19.8,16.1,193,5.7,3171,4.2,2.2,542,Work
+U01101,43,Male,Kolkata,Samsung,Android,9.8,22,66,69,5.3,2545,5.6,0.1,149,Social Media
+U01102,46,Other,Kolkata,Apple,iOS,8.7,1.1,23.2,16,2.7,330,5.3,3.9,457,Gaming
+U01103,33,Female,Mumbai,Oppo,iOS,5.3,41.6,161.6,96,4.2,1073,5.2,3.1,1807,Entertainment
+U01104,24,Other,Delhi,Oppo,iOS,7,40.1,185.9,50,4.1,9990,4,3.8,1066,Education
+U01105,40,Other,Bangalore,Google Pixel,Android,8.4,33.4,219.2,145,2,5294,4.9,0.4,490,Education
+U01106,21,Male,Ahmedabad,Apple,Android,1.1,29.1,112.6,132,3.4,1114,1.8,2.5,1028,Education
+U01107,15,Male,Lucknow,OnePlus,Android,6.3,7.4,294.2,44,1.6,6349,6.4,0.9,1785,Work
+U01108,30,Female,Jaipur,Apple,Android,5.5,48.2,298.6,153,4.9,2354,2,2.3,828,Work
+U01109,33,Other,Bangalore,Apple,Android,11.7,19.8,183.5,174,3.8,1740,4.7,4.4,189,Entertainment
+U01110,39,Female,Ahmedabad,Vivo,Android,10.8,16.1,228.5,74,0.9,272,1.6,1.3,1265,Work
+U01111,24,Other,Mumbai,Motorola,Android,10.6,2.2,159.3,181,3.3,2641,6.2,4.3,1405,Gaming
+U01112,56,Other,Pune,Xiaomi,Android,4.3,47.4,97.6,174,3.8,1091,2.8,4.6,213,Education
+U01113,16,Male,Lucknow,Vivo,iOS,11,43.3,108.4,77,1.3,1297,6.5,2.9,1156,Social Media
+U01114,16,Male,Lucknow,Samsung,iOS,5.7,47.3,277.7,95,4.1,622,1.7,0.3,653,Entertainment
+U01115,20,Female,Bangalore,OnePlus,iOS,1.5,4.8,247.7,73,4.6,2225,5.5,3.8,659,Entertainment
+U01116,24,Female,Pune,Realme,Android,8.7,30.6,21.9,193,0.9,8429,4.4,2.2,684,Social Media
+U01117,31,Other,Mumbai,Nokia,Android,9.4,39.6,79.4,144,1,2691,6.5,0.3,396,Gaming
+U01118,50,Female,Hyderabad,Realme,iOS,8.3,10.5,57.3,184,1.1,6312,3.9,4.7,1324,Work
+U01119,35,Female,Pune,Nokia,iOS,11.2,46.2,35.1,156,1.2,7506,5.2,4.9,899,Social Media
+U01120,51,Female,Hyderabad,Motorola,iOS,11.5,2.2,199.8,120,2.6,195,5.3,3.9,1265,Social Media
+U01121,24,Male,Chennai,OnePlus,iOS,2.1,27.4,251.4,88,2.5,3707,2.9,1.7,1773,Entertainment
+U01122,48,Other,Jaipur,Apple,Android,10.5,32.4,253.3,98,2.4,9696,1.1,0.2,231,Gaming
+U01123,36,Female,Chennai,Oppo,Android,3.3,29.3,120.6,144,0.6,9804,7.1,3.2,1375,Entertainment
+U01124,51,Male,Ahmedabad,Motorola,iOS,7.3,29.8,155.5,190,5.2,2863,1.9,1.4,921,Entertainment
+U01125,51,Other,Chennai,Realme,iOS,11.9,8.8,271.9,82,2.6,1998,2,0.7,475,Social Media
+U01126,54,Female,Pune,OnePlus,iOS,6.2,23,41.9,81,0.6,2805,5.2,0.3,313,Social Media
+U01127,22,Other,Chennai,Google Pixel,Android,2.1,2.8,231.3,104,4.6,775,1.9,2.8,500,Work
+U01128,27,Female,Hyderabad,Motorola,iOS,1.2,40.8,268.2,177,1.6,4624,3.8,0.6,616,Gaming
+U01129,20,Male,Kolkata,Motorola,iOS,7.1,16.7,173.8,193,4.9,5764,0.7,1.2,298,Gaming
+U01130,58,Male,Mumbai,Vivo,Android,6.8,22.7,94.9,14,5.2,2864,5.7,0.3,588,Education
+U01131,40,Female,Jaipur,Vivo,Android,6.9,31.3,207.1,96,2.3,8678,1,3,1989,Work
+U01132,23,Other,Jaipur,OnePlus,iOS,8.6,34.4,29.7,86,5.6,5497,1.2,3.5,164,Work
+U01133,26,Female,Chennai,Vivo,Android,8.7,27.5,95.4,76,2.1,6211,0.8,1.9,339,Social Media
+U01134,35,Male,Lucknow,Realme,Android,6.1,19.9,193.9,135,3.6,8034,3.6,0.7,612,Education
+U01135,21,Male,Chennai,Realme,Android,1.7,3.6,292.7,158,0.5,4220,6.2,4.6,1378,Gaming
+U01136,26,Male,Bangalore,Realme,iOS,6.9,26.3,39.8,47,2.7,1272,0.6,4.8,1496,Entertainment
+U01137,49,Female,Hyderabad,Realme,Android,4.4,48.8,99.1,153,5.7,511,4.3,2.3,573,Gaming
+U01138,50,Male,Hyderabad,Oppo,Android,4.6,40.2,203.8,21,3.8,409,1.9,0.9,1193,Work
+U01139,51,Female,Pune,Xiaomi,Android,3.6,20.7,123.8,38,0.9,4230,3.1,4.8,786,Education
+U01140,29,Other,Kolkata,Google Pixel,Android,7.6,44.4,193.4,185,3.5,3855,1,2.5,1289,Work
+U01141,39,Male,Lucknow,Motorola,Android,10.2,16.6,116.8,168,3.7,661,7.5,0.1,1298,Work
+U01142,39,Other,Mumbai,Realme,iOS,4.1,20,36.6,93,2.1,3943,7,3.5,837,Education
+U01143,49,Female,Bangalore,Nokia,iOS,6.3,8.3,186,141,1.4,5948,4.3,3,1692,Education
+U01144,18,Other,Lucknow,Oppo,Android,8.4,40.5,138.7,187,1.3,430,2.4,4.2,1318,Entertainment
+U01145,60,Male,Ahmedabad,Oppo,Android,8.8,45.8,128.5,103,2.6,3038,1.1,1.6,381,Entertainment
+U01146,58,Other,Ahmedabad,Apple,iOS,10.5,41,17.9,35,3.6,3342,3.6,4,591,Entertainment
+U01147,38,Female,Mumbai,Vivo,Android,6.5,28.7,130.3,85,0.6,9596,1,5,1426,Work
+U01148,24,Female,Kolkata,Vivo,iOS,10.5,26.3,25.2,166,0.8,343,4.5,3.4,532,Work
+U01149,43,Other,Delhi,Realme,iOS,11.1,33.5,29.4,198,5,9919,3.7,2.8,1017,Work
+U01150,36,Other,Pune,Google Pixel,Android,6.7,36.4,201.2,173,4.2,4144,6.5,4.1,608,Work
+U01151,43,Female,Jaipur,OnePlus,iOS,1.5,14.7,212.1,88,5,3581,2.3,0.4,796,Entertainment
+U01152,51,Male,Hyderabad,Samsung,iOS,3.7,19.7,28.2,129,3.1,8763,6.2,3.5,293,Entertainment
+U01153,51,Male,Kolkata,Vivo,Android,2.9,20.7,132.9,151,0.9,1320,3.7,2.4,1467,Social Media
+U01154,17,Female,Delhi,Google Pixel,iOS,9.6,49.2,190,198,1.7,3366,3.1,3.6,1511,Education
+U01155,41,Male,Delhi,Apple,iOS,1.3,36.6,36.1,34,4.5,8476,3.3,1.5,669,Entertainment
+U01156,40,Female,Delhi,Realme,iOS,1.1,5.3,27.3,95,5.4,8540,6.6,2.3,608,Entertainment
+U01157,30,Female,Pune,Oppo,Android,11.2,3.4,167.5,40,5.1,6167,2.1,0.4,512,Education
+U01158,29,Other,Ahmedabad,Vivo,iOS,9.9,42.2,71.3,95,5.5,5833,0.8,4.2,706,Entertainment
+U01159,31,Male,Lucknow,Samsung,Android,11.6,4.8,33.4,141,1.8,1067,5.8,0.9,1155,Education
+U01160,48,Male,Mumbai,Apple,Android,8.8,24.8,47,113,0.8,3586,4.9,4.2,416,Work
+U01161,57,Female,Delhi,Motorola,Android,9,45.8,78.6,195,3.3,356,3.7,0.9,634,Gaming
+U01162,16,Male,Pune,Vivo,iOS,11.2,38.9,178.8,52,4.6,8471,3.2,1,683,Education
+U01163,36,Male,Jaipur,Vivo,Android,8.4,15.8,45.7,29,3.1,5634,1.9,2.6,131,Education
+U01164,15,Female,Hyderabad,Oppo,Android,10.6,45.9,219.7,162,1.3,6020,3.1,1.7,1940,Work
+U01165,23,Other,Bangalore,Oppo,iOS,11.2,33.4,231.2,189,4.6,774,4.6,0.8,1740,Education
+U01166,33,Male,Delhi,Google Pixel,Android,2.3,29,72.2,36,2.9,9716,3.1,3.2,733,Gaming
+U01167,48,Female,Lucknow,OnePlus,iOS,5.2,23.8,134.5,122,5.3,3230,7.8,3.5,1964,Education
+U01168,37,Male,Pune,Nokia,Android,3.3,4.6,287.3,154,0.8,5132,1.1,0.5,1590,Entertainment
+U01169,28,Other,Hyderabad,Xiaomi,iOS,7.1,12.6,197,172,4.7,6014,4.5,1.6,1853,Education
+U01170,55,Male,Lucknow,Nokia,Android,2.1,46.9,190.7,113,0.5,9378,7.8,1.9,953,Social Media
+U01171,39,Male,Ahmedabad,Nokia,Android,3.4,35.2,107,15,2.1,1742,5.1,4.5,995,Work
+U01172,37,Male,Mumbai,Oppo,Android,9,30.6,34.7,168,2.3,3816,7.8,4.5,311,Social Media
+U01173,17,Other,Kolkata,OnePlus,Android,4.3,11,120,26,5.3,7380,3.7,3.6,1128,Entertainment
+U01174,57,Male,Ahmedabad,Vivo,iOS,1.9,1.1,243.5,48,2.4,7944,7.4,4.6,1388,Gaming
+U01175,36,Other,Jaipur,Realme,Android,3.8,26.7,202.1,107,3.1,2275,6.7,1.2,1103,Entertainment
+U01176,60,Male,Bangalore,Vivo,iOS,3.3,20.6,259.2,31,5.1,4721,3,4.9,1561,Work
+U01177,52,Female,Mumbai,Nokia,Android,8.6,44.1,11.1,184,2.3,3359,2.3,0.7,149,Entertainment
+U01178,41,Female,Chennai,Xiaomi,Android,9.6,39.5,189.1,113,1.6,7727,1.6,0.8,207,Education
+U01179,22,Male,Bangalore,OnePlus,Android,2.1,41.9,228.4,120,3.3,3438,5.2,3.4,992,Education
+U01180,45,Other,Hyderabad,Motorola,Android,11.4,12.6,188.4,11,4,3000,7.6,3.2,739,Education
+U01181,48,Female,Lucknow,OnePlus,Android,3.5,4.1,295.9,189,5.6,1252,4.1,4.8,149,Education
+U01182,50,Male,Lucknow,Apple,iOS,8.1,12,254.8,47,4.5,8138,0.9,4.2,1218,Social Media
+U01183,41,Other,Ahmedabad,OnePlus,Android,2.3,5.2,279,154,3.8,4959,6.6,2.4,1364,Gaming
+U01184,21,Female,Kolkata,Realme,iOS,1.6,48.1,57.3,91,0.9,7212,7.8,3.9,208,Social Media
+U01185,45,Female,Pune,Nokia,iOS,4.8,30.4,244.4,67,3.6,5484,0.8,1.9,1418,Gaming
+U01186,57,Female,Kolkata,Samsung,Android,1.7,29,142.9,118,2,363,4.6,3.9,615,Education
+U01187,28,Female,Ahmedabad,Xiaomi,Android,8.6,25.3,15.3,65,3.4,7280,4.5,3.9,1169,Work
+U01188,49,Male,Chennai,OnePlus,iOS,8.1,1.9,14.8,64,4,5301,2.6,3.5,1798,Education
+U01189,38,Male,Kolkata,Oppo,iOS,3.1,7.7,128.5,187,2.9,343,3.5,4.8,883,Gaming
+U01190,56,Male,Delhi,Motorola,Android,1,3.8,51.9,84,4.5,4754,6.2,3.7,688,Education
+U01191,28,Other,Mumbai,Realme,iOS,3.4,6.8,256.1,195,4.5,4095,7.4,1.7,1227,Gaming
+U01192,58,Other,Kolkata,Apple,iOS,9.6,29.9,189.9,85,3.8,8975,4.3,1.7,1118,Gaming
+U01193,48,Female,Jaipur,Vivo,Android,7.1,24,106.3,182,0.7,8460,2.9,2.1,879,Education
+U01194,17,Male,Pune,Nokia,iOS,10.7,47.5,120,114,5.5,7712,5.4,2,1687,Work
+U01195,18,Other,Jaipur,Oppo,iOS,1.6,48.8,47.5,20,2,1045,1.4,0.5,906,Entertainment
+U01196,51,Other,Bangalore,Apple,iOS,8,18.7,298.1,173,1.6,3951,6.3,3.9,395,Gaming
+U01197,36,Other,Pune,Motorola,Android,8.1,25,227.2,173,3.9,7729,0.8,3.1,113,Gaming
+U01198,21,Other,Bangalore,Nokia,Android,5.5,37.3,43.6,63,0.6,7099,0.7,1.3,975,Work
+U01199,35,Male,Lucknow,Vivo,iOS,9,16,54.6,108,5.5,7903,7.1,0.7,279,Education
+U01200,48,Other,Lucknow,Google Pixel,Android,5.8,44.9,95.9,47,3.2,8263,4.8,4.6,688,Gaming
+U01201,58,Other,Jaipur,Motorola,iOS,2.8,48.5,61,80,5.4,1709,7.6,0.1,912,Education
+U01202,59,Female,Lucknow,Realme,iOS,2.2,48.8,102,145,2.4,3101,6.7,1.9,1333,Education
+U01203,46,Male,Lucknow,Vivo,Android,7.2,11.6,105.3,180,2.1,9162,6.7,1.1,762,Gaming
+U01204,51,Female,Ahmedabad,Motorola,Android,10.6,40,134,98,3.5,2628,1.3,4.2,1900,Work
+U01205,52,Other,Jaipur,Motorola,Android,5.2,11.5,42.8,127,5.3,2533,3.4,3.3,1262,Gaming
+U01206,33,Male,Ahmedabad,Vivo,iOS,4.8,48.7,110.6,148,3.8,7754,5.2,4.6,1627,Entertainment
+U01207,60,Other,Delhi,Motorola,iOS,11.9,47.3,98.5,169,4,908,6.4,4.3,1542,Social Media
+U01208,42,Other,Mumbai,Samsung,Android,3.2,20.6,124.8,129,3.9,330,4.1,4.5,1400,Entertainment
+U01209,44,Female,Hyderabad,Samsung,Android,8.5,42.1,256,110,2.7,5974,3.3,4.7,1018,Social Media
+U01210,57,Other,Bangalore,Xiaomi,iOS,4.8,5,34.5,30,4.1,5239,2.5,2.3,1234,Entertainment
+U01211,35,Other,Chennai,Oppo,Android,5.6,17.2,143.9,188,4.9,4689,1.3,1.6,416,Education
+U01212,44,Other,Jaipur,OnePlus,Android,9.4,2.5,271.6,51,3.3,5163,2.6,3.7,1696,Education
+U01213,37,Female,Pune,Samsung,iOS,6.1,26.9,165.8,40,2.8,9491,6.3,1.9,1078,Social Media
+U01214,43,Female,Mumbai,Oppo,iOS,7.9,34.6,223.1,155,4.6,8004,4.9,0.1,1894,Entertainment
+U01215,26,Male,Lucknow,OnePlus,Android,11.9,22.2,140.4,51,1.4,5516,5.9,1.5,1850,Work
+U01216,59,Male,Jaipur,Google Pixel,iOS,2.6,38.2,21.2,138,2.2,8081,2.4,1,1273,Work
+U01217,15,Other,Jaipur,Xiaomi,iOS,7.6,4,205.9,30,3.5,6272,6,1,330,Education
+U01218,39,Male,Hyderabad,Vivo,Android,8.6,35.5,109.6,138,1.9,5141,3.7,0,1160,Gaming
+U01219,46,Female,Mumbai,Google Pixel,Android,3.8,2.2,127,109,2.3,2745,7.1,1.7,822,Work
+U01220,38,Male,Lucknow,Nokia,iOS,10.4,43.1,223.7,168,3,5079,5.5,3.2,1591,Social Media
+U01221,36,Female,Chennai,Oppo,iOS,2.4,7.9,194.2,39,1.2,8179,7,3.8,1778,Education
+U01222,21,Female,Pune,OnePlus,Android,11,48.6,18.3,23,3.2,5019,3.2,0.6,1471,Entertainment
+U01223,57,Other,Chennai,OnePlus,iOS,7.3,31.4,182.9,15,5,6188,6.6,3.2,261,Education
+U01224,47,Other,Kolkata,Google Pixel,Android,9.5,49.8,14.5,90,3.5,7240,6.3,1.5,898,Education
+U01225,37,Other,Hyderabad,Realme,iOS,9,42.7,273.2,35,0.6,7568,3.6,3.4,1112,Work
+U01226,42,Male,Lucknow,Apple,Android,11.7,40.2,295.5,154,3.6,365,6.6,1.7,292,Entertainment
+U01227,58,Female,Kolkata,Vivo,Android,6.9,31.4,203.4,63,0.7,669,6.2,2.4,459,Education
+U01228,44,Male,Delhi,Oppo,Android,7.6,28,17.4,118,1.2,7805,6.6,3.3,273,Entertainment
+U01229,37,Female,Mumbai,Motorola,Android,4.1,22,272.8,127,0.7,8219,1.8,4.5,756,Work
+U01230,15,Other,Hyderabad,Vivo,iOS,10.8,25.7,178.1,140,5.4,1764,1.7,4.6,677,Education
+U01231,23,Female,Delhi,Oppo,Android,4.2,38.1,34.1,73,1.8,1085,1.1,3.1,356,Work
+U01232,25,Other,Mumbai,OnePlus,Android,8.4,9.6,175.6,55,5.8,5166,7.5,2.7,1949,Gaming
+U01233,56,Other,Bangalore,Oppo,Android,7.1,30.6,160.2,81,2.3,2542,7.5,0.1,552,Education
+U01234,27,Female,Bangalore,Nokia,iOS,11,1.9,121.8,43,3.6,301,2.2,0.7,339,Work
+U01235,38,Other,Lucknow,Google Pixel,iOS,7.6,30.4,18,176,0.7,8849,2.1,2.2,1337,Work
+U01236,56,Other,Delhi,Realme,Android,11.4,42,223.3,128,2.2,8450,3.5,0.2,891,Work
+U01237,58,Male,Kolkata,Samsung,iOS,6.6,35.1,282.7,189,1.6,9016,5.1,0.1,1631,Social Media
+U01238,39,Other,Jaipur,Apple,Android,7.4,38.2,187.7,188,4.7,9485,7.3,0.3,1199,Education
+U01239,40,Other,Jaipur,Google Pixel,Android,12,4.1,59.9,38,3.3,4020,3.5,1.8,1562,Gaming
+U01240,49,Male,Hyderabad,Vivo,Android,7.2,36.3,242.2,134,5,1877,7.3,1.8,921,Gaming
+U01241,39,Other,Lucknow,Oppo,Android,5.6,34,240.9,55,3.3,3378,2.2,1.5,970,Social Media
+U01242,33,Female,Mumbai,Vivo,iOS,1.9,20.5,164.9,138,5.7,447,5,4.9,896,Work
+U01243,28,Female,Kolkata,Motorola,iOS,9.4,22.5,121,133,4.8,9199,5.1,2.9,1067,Social Media
+U01244,48,Female,Kolkata,Vivo,Android,6.7,28.5,41.9,28,0.9,9476,3.8,3.1,212,Work
+U01245,42,Male,Bangalore,Nokia,Android,5.2,33.4,105,116,4.1,7755,5.9,1.9,659,Entertainment
+U01246,56,Male,Mumbai,OnePlus,iOS,11.4,42,30.9,178,5.6,2408,4.2,4.5,1201,Entertainment
+U01247,33,Female,Kolkata,Xiaomi,Android,2.5,4.8,11,187,1.5,1666,0.6,2.5,1267,Work
+U01248,29,Female,Mumbai,Realme,Android,7.2,23.2,68.5,170,5.9,2605,1.4,1.4,739,Education
+U01249,33,Male,Delhi,Google Pixel,iOS,4.3,16.3,85.6,70,1,5995,6.5,4.2,447,Work
+U01250,26,Male,Pune,Apple,Android,4,25.8,84.7,154,3.5,5906,1.1,2.5,1802,Gaming
+U01251,47,Female,Mumbai,Oppo,iOS,8,3,112.1,113,2.3,6672,3.9,4.7,1176,Social Media
+U01252,21,Female,Bangalore,Xiaomi,iOS,7.5,1.8,250.8,69,6,2098,7,2.8,1428,Social Media
+U01253,16,Female,Hyderabad,Google Pixel,iOS,4.6,15.8,274.7,150,5.1,5419,3.2,2.9,476,Entertainment
+U01254,47,Female,Hyderabad,Apple,iOS,9.2,47.4,273,22,4.7,2572,4.9,0.6,979,Entertainment
+U01255,23,Male,Ahmedabad,Vivo,Android,8.4,23.3,175.5,113,4.3,1655,7.4,1,942,Work
+U01256,25,Male,Kolkata,Apple,Android,9.5,46.1,285.9,58,1,8415,4.1,2.9,517,Education
+U01257,55,Male,Kolkata,Realme,Android,2.5,13.4,79.2,155,4.8,2926,3.7,1.3,968,Entertainment
+U01258,40,Other,Mumbai,OnePlus,iOS,4.2,19.9,196,16,5,1812,4.6,4.1,1836,Work
+U01259,51,Male,Jaipur,Realme,Android,10.6,40,216.4,49,1.8,3287,1,2.9,1714,Social Media
+U01260,24,Female,Hyderabad,Xiaomi,Android,3.5,40.2,180.7,34,3.1,9217,3.6,2.5,792,Gaming
+U01261,21,Male,Pune,Xiaomi,iOS,9.6,43.5,20.5,153,5,1822,3.1,1.5,173,Work
+U01262,15,Female,Chennai,Google Pixel,iOS,8.2,48.5,293.4,53,2.8,7615,2.2,1.6,391,Entertainment
+U01263,40,Female,Jaipur,Motorola,iOS,4.1,33.8,9.7,74,1.8,2386,1.4,2.8,621,Gaming
+U01264,42,Female,Kolkata,Oppo,Android,8,44.1,233.3,38,1.3,1611,7.3,0.2,1986,Social Media
+U01265,47,Other,Ahmedabad,Xiaomi,iOS,6.9,47.5,141.3,156,2.6,2182,5.3,3.2,975,Education
+U01266,50,Male,Kolkata,OnePlus,Android,7,15.7,34.1,30,5.8,5121,7.2,2.3,1322,Entertainment
+U01267,19,Male,Delhi,Apple,iOS,3.1,4.2,220.6,169,1.3,6328,0.5,4.1,1874,Entertainment
+U01268,20,Female,Ahmedabad,Xiaomi,iOS,4.4,49.3,57.2,40,4.4,8490,2.6,0.9,1012,Gaming
+U01269,50,Female,Kolkata,Oppo,Android,7.6,47.9,269.5,133,0.8,9019,0.7,2.6,554,Gaming
+U01270,38,Female,Pune,OnePlus,iOS,2.6,13,50.6,53,4.1,7181,1.2,1,474,Gaming
+U01271,29,Female,Delhi,Vivo,Android,3.1,37.9,248.8,100,3.7,2174,1.9,2,847,Entertainment
+U01272,37,Female,Ahmedabad,Realme,iOS,11.4,39.9,121.5,94,4.9,849,3.1,3.9,387,Gaming
+U01273,48,Other,Chennai,Samsung,iOS,7.7,12.6,112.3,53,5.6,8745,3.1,0.1,308,Work
+U01274,34,Male,Kolkata,Xiaomi,Android,5.3,24.8,104.9,80,2.3,6308,3.8,3.3,1528,Social Media
+U01275,50,Male,Pune,Nokia,Android,4,42.3,98.2,77,3,5085,4.3,4.2,136,Gaming
+U01276,16,Female,Kolkata,Vivo,iOS,7.8,27.8,110.5,92,1.1,6366,1.8,0.2,1477,Work
+U01277,51,Male,Ahmedabad,OnePlus,Android,2.6,31.9,8.5,113,5.6,1513,5,3.5,511,Entertainment
+U01278,59,Male,Chennai,Motorola,iOS,3.3,5.8,121.9,140,4,2576,7.1,3.3,524,Gaming
+U01279,46,Male,Delhi,Google Pixel,iOS,11.3,15.7,66.8,62,4.5,6381,1.9,4.7,1302,Gaming
+U01280,32,Male,Lucknow,Motorola,iOS,4.3,28.8,282.2,127,5.2,9062,8,3.4,1889,Education
+U01281,18,Female,Bangalore,Google Pixel,Android,10.6,42.9,207.4,183,5,4881,7.5,0.4,1030,Gaming
+U01282,24,Male,Bangalore,Xiaomi,iOS,7.5,15.5,257.1,91,0.7,3047,3.5,0.8,487,Social Media
+U01283,47,Female,Kolkata,Nokia,iOS,10.8,22.2,99.3,96,2,4608,2.5,2.8,1273,Gaming
+U01284,49,Female,Mumbai,Motorola,Android,11.2,37.2,66,104,3.5,4069,3.4,2.6,872,Education
+U01285,50,Male,Delhi,Apple,iOS,9.9,23.6,28.7,163,3.6,9913,5.9,4,1793,Work
+U01286,16,Female,Delhi,Realme,iOS,2.3,14.4,115.1,172,5.2,1150,7,1.9,1570,Entertainment
+U01287,20,Other,Delhi,Xiaomi,iOS,8.4,27.8,202.9,24,4,7174,2.6,5,249,Education
+U01288,30,Other,Bangalore,OnePlus,iOS,5.2,32.7,291.9,62,3.9,4297,6.3,3.1,1300,Gaming
+U01289,52,Male,Chennai,Vivo,Android,6,20.2,161.5,47,1.3,7541,2.2,2.3,899,Entertainment
+U01290,34,Other,Hyderabad,Realme,iOS,7.7,43.1,196.5,46,4.1,2950,3.6,1.5,876,Education
+U01291,40,Other,Lucknow,Apple,Android,5.4,17.5,95.4,192,3.2,850,3.4,3.4,165,Education
+U01292,57,Other,Lucknow,Google Pixel,iOS,6.5,37.8,176.1,148,4,7497,5.9,4.2,736,Work
+U01293,25,Other,Hyderabad,Realme,Android,2.2,37.4,296.4,200,5.7,3141,4.6,2.3,1381,Gaming
+U01294,30,Other,Pune,OnePlus,Android,8.2,18.6,79.7,175,1.1,4539,3.4,1.4,697,Work
+U01295,18,Other,Bangalore,Samsung,Android,9.6,9.7,272.4,66,3.8,4152,2.9,4.4,1154,Education
+U01296,33,Other,Kolkata,Motorola,iOS,9.8,40,241,159,0.8,635,3.8,2.9,301,Education
+U01297,38,Other,Delhi,Samsung,iOS,6.5,11.8,205.3,41,5.4,8821,7.8,0.7,671,Gaming
+U01298,18,Female,Kolkata,Xiaomi,iOS,10.2,48.6,227.9,45,2.1,4620,2.3,2.7,511,Gaming
+U01299,31,Male,Mumbai,Samsung,iOS,2.7,48.3,282.5,181,5,6426,5.9,4,598,Entertainment
